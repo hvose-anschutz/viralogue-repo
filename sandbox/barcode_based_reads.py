@@ -35,7 +35,7 @@ for line in range(0,len(fasta)-1,2):
 barcode_list = "|".join(list(my_dict.values()))
 #print(barcode_list)
 
-new_r1_info = subprocess.run(['grep','-B','1', '-A','2','-E',barcode_list,test_fastq,'--no-group-separator'],capture_output=True,text=True)
+new_r1_info = subprocess.run(['grep','-B','1','-A','2','-E',barcode_list,test_fastq,'--no-group-separator'],capture_output=True,text=True)
 new_r1_lines = new_r1_info.stdout.split("\n")
 
 with open(new_r1_file,"w") as f:
