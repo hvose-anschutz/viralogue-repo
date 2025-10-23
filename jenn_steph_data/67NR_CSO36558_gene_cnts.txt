@@ -1,0 +1,469 @@
+chr12:69159590-69361318	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr14:50807558-50807579	set()
+chr7:45126238-45126478	{'Dhdh'}
+chr13:62285540-62291779	{'Zfp808', '2810408B13Rik'}
+chr13:62285540-62296381	{'Zfp808', '2810408B13Rik'}
+chr15:5117423-5117619	set()
+chr12:69159488-69361187	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr13:50719504-51638304	{'Gm29777', 'Gm6056', '1700048B10Rik', 'Gm53787', 'Gm8777', 'Spin1', 'Gm19009', 'Gm32613', 'Shc3', 'Gm31712', 'Gm32038', 'Spata31e4', 'Gm20789', 'Gm19663', 'Mir683-2', '9430083A17Rik', 'Gm32834', 'Gm904', '4930518P08Rik', 'Gm40947', 'Gm29787', 'Gm2654', 'H2af-ps2', 'Nxnl2', 'Gm9702', 'Gm23952', 'Gm8779', 'S1pr3'}
+chr4:143979425-143979463	set()
+chr15:5116685-5117287	set()
+chr12:69159474-69361185	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr3:86139249-86141239	{'Lrba'}
+chr1:9236061-9236099	{'Sntg1'}
+chr11:86815429-86815467	set()
+chr12:69159474-69361187	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr11:86815239-86815391	set()
+chr11:86815391-86815429	set()
+chr12:69159590-69361303	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr5:94516954-94713780	{'BC080696', 'Pramel42', 'Pramel52-ps', 'Pramel41'}
+chr4:8393673-8393711	{'Gm42252'}
+chr12:69159590-69361289	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr4:8393635-8393711	{'Gm42252'}
+chr12:69159592-69361303	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr9:120131166-120131400	set()
+chr7:81344417-81344857	{'Homer2'}
+chr11:86815315-86815353	set()
+chr12:69159603-69361318	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr11:86815353-86815467	set()
+chr4:86856357-86856728	set()
+chr7:4793410-4793503	set()
+chr5:94516954-95054047	{'Pramel43', 'Gm46934', 'BC080696', 'Pramel42', 'Pramel52-ps', 'Pramel58', 'Pramel56', 'Pramel44', 'Gm7663', 'Pramel41'}
+chr5:94516954-95371529	{'Pramel43', 'Gm46934', 'Gm7939', 'Gm3176', 'Pramel45', 'Pramel59', 'BC080696', 'Pramel42', 'Pramel52-ps', 'Pramel58', 'Pramel56', 'Gm42118', 'Pramel44', 'Gm7647', 'Pramel60', 'Gm7663', 'Pramel41'}
+chr8:70895508-70895600	set()
+chr18:6354609-6668337	{'Gm7464', '4921524L21Rik', 'Epc1', 'Mir1893', 'Gm6291'}
+chr2:32962673-32962985	{'Garnl3'}
+chr19:4767156-5386324	{'Peli3', 'Rab1b', 'Dpp3', 'Gal3st3', 'B4gat1', 'Rin1', 'Yif1a', 'Gm21992', 'Gm30840', 'Gm42064', 'Ccdc87', 'Gm5242', 'Tmem151a', 'Sptbn2', 'Cd248', 'Zdhhc24', 'Catsper1', 'Mrpl11', 'Ccs', 'Pacs1', 'Sf3b2', 'Slc29a2', 'Klc2', 'Gm19103', 'Gm7074', 'Cnih2', 'Rbm4b', 'Ctsf', 'Brms1', 'LOC132660285', 'Actn3', 'Bbs1', 'n-TSgct6', 'Npas4', 'Rbm14', 'Gm30581', 'Rbm4'}
+chr13:62091663-62294793	{'Gm3325', 'Gm24539', 'Gm6478', 'Selenok-ps8', 'Gm21935', 'Gm40977', '2810408B13Rik', 'Zfp808', 'Selenok-ps5'}
+chr8:70061265-70524236	{'Gm51532', 'Tssk6', 'Ndufa13', 'Gm33746', 'Zfp963', 'Gm19893', 'Atp13a1', 'Gmip', 'Lpar2', 'Zfp869', 'Pbx4', 'Gm7730', 'Mau2', 'Zfp868', 'Zfp964', 'Sugp1', 'Gm33695', 'Gatad2a', 'Yjefn3', 'Cilp2', 'Zfp866'}
+chr8:69685157-70524236	{'Gm51532', 'Gm10033', 'Tssk6', 'Ndufa13', 'D130040H23Rik', 'Gm33746', 'Zfp963', 'Gm19893', 'Atp13a1', 'Gm3365', 'Potefam3c', 'Rps7-ps1', 'Gmip', 'Lpar2', 'Zfp869', 'Pbx4', 'Gm7730', 'Mau2', 'Zfp868', 'Zfp964', 'Sugp1', 'Gm33695', 'Potefam3d', 'Gatad2a', 'Yjefn3', 'Cilp2', 'Zfp866', 'Gm7684', 'Gm7688'}
+chr2:154766805-154926766	{'Gm39966', 'Gm45609', 'a', 'Ahcy', 'Gm39965'}
+chr13:62083439-62293119	{'Gm3325', 'Gm24539', 'Gm6478', 'Selenok-ps8', 'Gm21935', 'Gm40977', '2810408B13Rik', 'Zfp808', 'Selenok-ps5'}
+chr12:28635488-28635580	set()
+chr12:22475205-23026074	{'Gm20336', 'Gm21941', 'Gm48012', '2410018L13Rik', 'Gm38538', 'Gm53746', 'Gm9292', 'Gm10476'}
+chr19:4065216-4065292	set()
+chr12:69159592-69361318	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr12:69159459-69361176	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr17:33823331-33824299	{'Myo1f'}
+chr2:29376762-29709052	{'Gm30761', 'Med27', 'Prrt1b', 'Coq4', 'Gm52595', 'Rapgef1', 'Slc27a4', 'Gm13547', 'Trub2'}
+chr9:21783004-22653384	{'Gm45914', 'Gm39308', 'Zfp872', 'Zfp810', 'Zfp653', 'Gm39307', 'Odad3', 'Gm10182', 'Cnn1', 'Gm36414', 'Rgl3', 'Plppr2', 'Gm18228', 'Anln', 'Mir7084', '1810064F22Rik', 'Gm2976', 'Elavl3', 'Rab3d', 'Gm18227', 'Acp5', 'Gm39306', 'Zfp809', 'Gm16845', 'Bbs9', 'Gm18225', 'Zfp599', 'Gm6581', 'Epor', 'Swsap1', 'Prkcsh', 'Ecsit', 'Rpl15-ps3', 'Matcap2', 'Tmem205', 'Ccdc159', 'Gm16165', 'Elof1', 'Pigyl', 'Gm6607', 'Rp9'}
+chr11:95877475-96155932	{'Igf2bp1', 'Gm11538', 'Gm30134', 'Ube2z', 'Ttll6', 'Atp5mc1', 'Gm51876', 'Gm53', 'Gm22423', 'Gm24949', 'Gm30084', 'Snf8', 'Gip', 'Hoxb13', 'Calcoco2', 'Gm11539'}
+chr12:22475332-23026201	{'Gm20336', 'Gm21941', 'Gm48012', '2410018L13Rik', 'Gm38538', 'Gm53746', 'Gm9292', 'Gm10476'}
+chr19:4065330-4065444	set()
+chr8:69831352-70524236	{'Gm51532', 'Gm10033', 'Tssk6', 'Ndufa13', 'Gm33746', 'Zfp963', 'Gm19893', 'Atp13a1', 'Gm3365', 'Potefam3c', 'Rps7-ps1', 'Gmip', 'Lpar2', 'Zfp869', 'Pbx4', 'Gm7730', 'Mau2', 'Zfp868', 'Zfp964', 'Sugp1', 'Gm33695', 'Potefam3d', 'Gatad2a', 'Yjefn3', 'Cilp2', 'Zfp866'}
+chr1:86356742-86356957	set()
+chr7:45126538-45126709	{'Dhdh'}
+chr19:9982984-9984181	{'Rab3il1'}
+chr19:5854397-5941194	{'Frmd8os', 'Slc25a45', 'Neat1', 'Tigd3', 'Frmd8'}
+chr11:86815429-86815505	set()
+chr12:21939887-22475280	{'Gm53744', 'Gm49248', 'Gm6838', 'Gm40857', 'Gm9282', 'Gm9283', 'Gm4425', 'Gm9289', 'Gm40856', 'Gm10476'}
+chr2:181191511-181192027	{'Dnajc5'}
+chr10:80697284-80887017	{'LOC118567793', 'Diras1', 'Tmprss9', 'Sppl2b', 'Lmnb2', 'Gm16099', 'Gadd45b', 'Timm13', 'Slc39a3', 'Sgta', 'Gng7'}
+chr4:117737915-117801838	{'St3gal3', 'Gm12841', 'Artn', 'Dph2', 'Atp6v0b', 'B4galt2', 'Ipo13'}
+chr9:61913522-61913888	{'Paqr5'}
+chr7:45126795-45126991	{'Dhdh'}
+chr8:69753500-70524236	{'Gm51532', 'Gm10033', 'Tssk6', 'Ndufa13', 'D130040H23Rik', 'Gm33746', 'Zfp963', 'Gm19893', 'Atp13a1', 'Gm3365', 'Potefam3c', 'Rps7-ps1', 'Gmip', 'Lpar2', 'Zfp869', 'Pbx4', 'Gm7730', 'Mau2', 'Zfp868', 'Zfp964', 'Sugp1', 'Gm33695', 'Potefam3d', 'Gatad2a', 'Yjefn3', 'Cilp2', 'Zfp866', 'Gm7688'}
+chr11:68903320-68904365	set()
+chr2:75639012-75639050	{'Gm13669'}
+chr6:134547871-135054617	{'Dusp16', 'Gprc5a', 'Gm36328', 'Ddx47', 'Cdkn1b', 'Gpr19', 'Lockd', 'Gm53343', 'Gm57779', 'Gm53344', '2810454H06Rik', 'Crebl2', 'Gm36428', '1700055D16Rik', 'Borcs5', 'Apold1', 'Mansc1'}
+chr12:54714383-54719192	{'Eapp'}
+chr3:130726960-130728748	set()
+chr15:99822630-99921073	{'2310068J16Rik', 'Gm21917', 'Larp4', 'Fam186a'}
+chr7:45127093-45127209	{'Dhdh'}
+chr4:117153988-117154299	{'Rnf220', 'Gm12843'}
+chr9:78479193-78479278	{'Slc17a5'}
+chr4:143979463-143981268	set()
+chr9:120130364-120130768	set()
+chr1:13051729-13324340	{'Prdm14', 'Gm39592', 'Slco5a1', 'Gm5250', 'Ncoa2'}
+chr16:57232203-57279510	{'Cmss1', 'Gm20956', 'Filip1l'}
+chr11:70310954-70517149	{'Gm40193', 'Mink1', 'Zmynd15', 'Cxcl16', 'Psmb6', 'Gm12314', 'Mir7115', 'Pld2', 'Gm51905', 'Chrne', 'Gm12313', 'Vmo1', '4930544D05Rik', 'Tm4sf5', 'Med11', 'Gltpd2', 'Gm12315', 'Arrb2'}
+chr19:3854716-4450343	{'Ppp1ca', 'LOC102631992', 'Nudt8', 'Gstp3', 'Pitpnm1', 'Gm52386', 'Kdm2a', 'Ndufs8', 'Gpr152', 'Mir6985', 'Gm42060', 'Aldh3b3', 'Unc93b1', 'Tbx10', 'Mir12192', 'Tcirg1', 'Cabp2', 'Tmem134', 'Rps6kb2', 'Aldh3b1', 'Aip', 'Pold4', 'Tbc1d10c', 'Chka', 'Cabp4', 'Gm30082', 'Ndufv1', 'Gm42059', 'Rad9a', '9430078G10Rik', 'Grk2', 'Doc2g', 'Cdk2ap2', 'Aldh3b2', 'Clcf1', 'Gm19209', 'Snord3b-ps1', 'Ankrd13d', 'Carns1', 'Gm45928', 'Gstp2', 'Gstp1', 'Ptprcap', 'Kmt5b', 'Acy3', 'Ssh3', 'Coro1b'}
+chr4:143979501-143981306	set()
+chr4:46468788-46469883	{'Anp32b'}
+chr11:97778379-97781334	set()
+chr11:116497811-116883124	{'Mfsd11', 'St6galnac1', 'Rhbdf2', 'St6galnac2', 'Srsf2', 'BC018473', 'Mxra7', 'Mgat5b', 'Gm11735', 'Snhg16', 'Jmjd6', 'Snord1b', 'Gm33829', 'Mettl23', 'Snord1a', 'Cygb', 'Snord1c', 'Prcd'}
+chr13:90923747-90924326	set()
+chr19:3752061-4450343	{'Ppp1ca', 'LOC102631992', 'Nudt8', 'Gstp3', 'Pitpnm1', 'Gm52386', 'Kdm2a', 'Ndufs8', 'Gpr152', 'Mir6985', 'Gm42060', 'Aldh3b3', 'Unc93b1', 'Tbx10', 'Mir12192', 'Tcirg1', 'Cabp2', 'Tmem134', 'Coro1b', 'Aldh3b1', 'Rps6kb2', 'Aip', 'Pold4', 'Tbc1d10c', 'Chka', 'Cabp4', 'Gm30082', 'Ndufv1', 'Gm42059', 'Gm36787', 'Rad9a', '9430078G10Rik', 'Grk2', '1810055G02Rik', 'Doc2g', 'Cdk2ap2', 'Aldh3b2', 'Clcf1', 'Gm19209', 'Snord3b-ps1', 'Ankrd13d', 'Carns1', 'Gm45928', 'Gstp2', 'Gstp1', 'Ptprcap', 'Kmt5b', 'Acy3', 'Gm36608', 'Ssh3', 'Gm2141'}
+chr8:70895710-70895916	set()
+chr2:13579547-13580018	{'Vim'}
+chr17:35479122-35479160	set()
+chr9:108937813-109855543	{'Gm4734', 'Fbxw13', 'Fbxw23', 'Gm24641', 'Fbxw28', 'Cdc25a', 'Fbxw20', 'Fbxw21', '3000002C10Rik', 'Camp', 'Plxnb1', 'Fbxw19', 'Fbxw15', 'Gm40579', 'Fbxw27', 'Mir7089', 'Gm22821', 'Fbxw18', 'Fbxw22', 'Gm39427', 'Fbxw24', 'Gm51691', 'Fbxw25', 'Fbxw16', 'Gm25484', 'Fbxw14', 'Spink8', 'Fbxw26', 'Nme6', 'Map4', 'Gm4644'}
+chr4:155684168-155778351	{'Cdk11b', 'Mib2', 'Slc35e2', 'Gm16023', 'Mmp23'}
+chr12:21939774-22475129	{'Gm53744', 'Gm49248', 'Gm6838', 'Gm40857', 'Gm9282', 'Gm9283', 'Gm4425', 'Gm9289', 'Gm40856', 'Gm10476'}
+chr11:75646295-75787804	{'Ywhae', 'Doc2b', 'Gm12339', 'Rph3al'}
+chr4:86856014-86856146	set()
+chr12:54729737-54734554	{'Eapp'}
+chr2:32962123-32962574	{'Garnl3'}
+chr11:68030474-68977932	{'Borcs6', 'Mfsd6l', 'Gm53684', 'n-TTagt7', 'Gm25819', 'Pik3r6', 'Gm32384', 'Stx8', 'Mir3062', 'Ccdc42os', 'n-TWcca7', 'Snord118', 'n-TGtcc6', 'Slc25a35', 'Gm31954', 'Ctc1', 'Gm40036', 'Pik3r5', 'Aurkb', 'Ndel1', 'Rpl26', 'Gm22608', 'Arhgef15', 'Gm32046', 'n-TSaga4', 'C78197', 'Gm51902', 'n-TPcgg3', 'Ccdc42', 'Tmem107', 'n-TDgtc9', 'n-TWcca6', 'Gm53685', 'Rnf222', 'n-TSgct3', 'Pfas', 'Mir6406', 'Myh10', 'n-TIaat5', 'n-TIaat4', 'Odf4', 'n-TTagt8', 'Gm32273', 'Rangrf', 'Ntn1'}
+chr12:54714383-54738488	{'Gm20947', 'Eapp', 'Gm36262'}
+chr7:45943349-46882349	{'Uevld', 'Mir7056', 'Saal1', 'Mrgpra6', 'Gtf2h1', 'Misfadt', 'Sergef', 'Gm22969', 'Myod1', 'Saa3', 'Gm31882', 'Otog', 'LOC102637012', 'Gm39011', 'Gm19248', 'Gm5331', 'Gm32031', 'Gm18347', 'Gm39012', 'Tmem86a', 'Saa1', 'Ldha', 'Saa4', 'Hps5', 'Ldhc', 'Misfa', 'Spty2d1', 'Tph1', 'Kcnc1', 'Ptpn5', 'Saa-ps', 'Gm45923', 'Gm9392', 'Gm31941', 'Tsg101', 'Gm14377', 'Saa2'}
+chr2:32961840-32962049	{'Garnl3'}
+chr14:50807565-50807587	set()
+chr10:61150073-61397122	{'Lrrc20', 'Pald1', 'Gm47593', 'Nodal', 'D830039M14Rik', 'Gm17829', 'Eif4ebp2'}
+chr11:116239222-116399605	{'Qrich2', 'Rnf157', 'Ubald2', 'Rpl36-ps1', 'Prpsap1', 'Rps11-ps2'}
+chr8:69786907-70524236	{'Gm51532', 'Gm10033', 'Tssk6', 'Ndufa13', 'Gm33746', 'Zfp963', 'Gm19893', 'Atp13a1', 'Gm3365', 'Potefam3c', 'Rps7-ps1', 'Gmip', 'Lpar2', 'Zfp869', 'Pbx4', 'Gm7730', 'Mau2', 'Zfp868', 'Zfp964', 'Sugp1', 'Gm33695', 'Potefam3d', 'Gatad2a', 'Yjefn3', 'Cilp2', 'Zfp866'}
+chr12:17549781-17549863	set()
+chr12:28631194-28631624	{'Allc'}
+chr3:86141802-86142508	{'Lrba'}
+chrX:7209344-8130573	{'Usp27x', 'Gm32874', 'Gm32829', 'Gm14395', 'Tfe3', 'Magix', 'Praf2', 'Rbm3', 'Pcsk1n', 'Tbc1d25', 'Cacna1f', 'Gm23082', 'Gm9429', 'Gm14703', 'Ccdc22', 'Gm39487', 'Pim2', 'Plp2', 'Slc35a2', 'Gripap1', 'Gm52419', 'Gm33135', 'Rbm3os', 'Eras', 'Flicr', 'Ccdc120', 'Syp', 'Mir1198', 'Gm39488', 'Gm14379', 'Gpkow', 'Rpl22-ps1', 'Pqbp1', 'Timm17b', 'Gm7079', 'Suv39h1', 'Porcn', 'Foxp3', 'Psmb6-ps', 'Glod5', 'Smt3h2-ps', 'Ebp', 'Gata1', '2010204K13Rik', 'Hdac6', 'Wdr45', 'Otud5', 'Gm6079', 'Kcnd1', 'Prickle3', 'Gm6787', 'Gm54078', 'Wdr13', 'Was', 'Ppp1r3f', 'Psmb7-ps2', 'Ftsj1'}
+chr7:4793627-4794064	set()
+chr15:76905972-76906121	{'Mb'}
+chr12:54714353-54734554	{'Eapp', 'Gm36262'}
+chr7:109519994-109520468	{'Dennd5a'}
+chr2:154940855-155413293	{'Gm14227', 'Gm45609', 'Ggt7', 'Acss2', 'Pigu', 'Gm14239', 'Acss2os', 'Gssos2', 'Mir695', 'Gm17959', 'Gss', 'Map1lc3a', 'Gm14238', 'Itch', 'Dynlrb1', 'Ncoa6', '2310005A03Rik', 'Trp53inp2', 'Gm52565'}
+chr4:136051721-136052567	{'Hnrnpr'}
+chr3:86138111-86138483	{'Lrba'}
+chr11:70310954-70627557	{'Mink1', 'Camta2', 'Tm4sf5', 'Gp1ba', 'Spag7', 'Eno3', 'Zmynd15', 'Psmb6', 'Gm12314', 'Mir7115', 'Gm51905', 'Chrne', 'Rnf167', '4930544D05Rik', 'Gltpd2', 'Gm12315', 'Arrb2', 'Inca1', 'Pld2', 'Slc25a11', 'Kif1c', 'Gm40193', 'Cxcl16', 'Mir6925', 'Gm12313', 'Vmo1', 'Med11', 'Pfn1'}
+chr9:21609747-21771750	{'Gm26511', 'Spc24', 'Mir7083', 'Ldlr', 'Kank2', 'Angptl8', 'Gm39305', 'Smarca4', 'Dock6'}
+chr5:115561519-115562426	{'A930005G22Rik'}
+chr10:128624637-128625207	set()
+chr2:75639050-75639126	{'Gm13669'}
+chr11:98027930-98028346	{'Fbxl20'}
+chr1:63179374-63179458	{'Ino80dos'}
+chr3:86141427-86141698	{'Lrba'}
+chr4:152330129-152332280	{'Acot7'}
+chr4:86854956-86855867	set()
+chr6:38260779-38685771	{'Klrg2', 'n-TRcct1', 'Gm7504', 'Rpl30-ps1', 'Ift56', 'Ubn2', 'Mir7670', 'Zc3hav1', 'Gm53284', 'Clec2l', 'Zc3hav1l', 'Luc7l2', 'Gm43578', 'Gm53283', 'Hipk2', 'Gm15697', 'Fmc1'}
+chr19:7011340-7212752	{'Otub1', 'Naa40', 'Stip1', '5730409K12Rik', 'Gm38621', 'Cox8a', 'Flrt1', 'Macrod1'}
+chr11:78181594-78182803	{'Rskr'}
+chr12:69158761-69158997	set()
+chr15:36601008-36601315	{'Pabpc1'}
+chrX:134586184-134586511	{'Tcp11x2'}
+chr17:27634244-27634326	set()
+chr15:99859227-99921073	{'2310068J16Rik', 'Larp4', 'Fam186a'}
+chr9:61913963-61914357	{'Paqr5'}
+chr19:4065330-4065406	set()
+chr4:46470008-46471398	{'Anp32b'}
+chr11:98029886-98030271	{'Fbxl20'}
+chr12:24565032-24778352	{'Gm52012', 'Gm36129', 'Grhl1', 'Cys1', 'Klf11', 'Taf1b', 'Gm6969', 'Rrm2'}
+chr8:5033316-5768348	{'n-R5s93', 'Gm6426', 'Slc10a2', 'Gm5739', 'Gm5605', 'Gpi-ps'}
+chr9:21451187-21771750	{'Gm26511', 'AB124611', 'Spc24', 'Gm39303', 'Gm7904', 'Mir7083', 'Ldlr', 'Carm1', 'Kank2', 'Angptl8', 'Gm39305', 'Timm29', 'Yipf2', 'Mir1946b', 'Smarca4', 'Dock6'}
+chr19:9984686-9984781	{'Rab3il1'}
+chr2:180257852-180257986	{'Col9a3'}
+chr14:75845457-75845617	set()
+chr10:127638562-127686587	{'Rdh18-ps', 'Rdh19', 'Rdh16'}
+chr19:9984328-9984560	{'Rab3il1'}
+chr6:87832889-87833110	set()
+chr7:45127275-45127496	{'Dhdh'}
+chr7:45458661-45459084	{'Cyth2'}
+chr13:51637987-51638025	{'Shc3'}
+chr11:86815353-86815505	set()
+chr4:131933517-132107443	{'Rab42', 'Snora73a', 'Ythdf2', 'Taf12', 'Gm13252', 'Snord99', 'Snora16a', 'Rcc1', 'Rnu11', 'Snhg3', 'Snora61', 'Rps15a-ps4', 'Snhg12', 'Snora44', 'Gm28874', 'Trnau1ap', 'Phactr4', 'Gmeb1', 'Snora73b'}
+chr12:54710443-54734554	{'Eapp', 'Gm40884', 'Gm36262'}
+chr4:143979349-143979463	set()
+chr17:45570567-45570666	{'Gm41582'}
+chr9:21647092-21856996	{'Plppr2', 'Rab3d', 'Mir7083', 'Ldlr', 'Kank2', 'Angptl8', 'Tmem205', 'Gm39305', 'Ccdc159', 'Spc24', 'Dock6'}
+chr11:97781463-97781806	set()
+chr7:109519649-109519918	{'Dennd5a'}
+chr11:6476933-7331989	{'Gm11980', 'Ramp3', 'Igfbp3', 'Igfbp1', 'Gm11981', 'Gm24000', 'Ccdc201', 'Gm57582', 'Gm11978', 'Wap', 'Adcy1', 'Snora5c', 'Gm36565', 'Gm53666', 'Tbrg4', 'Snhg15', 'Nacad', 'Gm39575', 'Gm11977', 'Gm24313', 'Gm11983', 'Ccm2', 'Snora9'}
+chr7:81345009-81345202	{'Homer2'}
+chr11:49749027-50190370	{'Gm12194', 'Gm53700', 'Mir340', 'Gm53699', 'Mapk9', 'Mrnip', 'Mir6919', 'Ltc4s', 'Sqstm1', 'Tbc1d9b', 'Gm36556', 'Rnf130', 'Maml1', 'Canx', 'Rasgef1c', 'Mgat4b'}
+chr10:80292861-80293642	set()
+chr14:24492117-24493383	{'Gm47814'}
+chr15:76904681-76904818	{'Mb'}
+chr1:13051729-13118272	{'Slco5a1'}
+chr7:80466673-80888385	{'Gm18782', 'Ndufs6b', 'Gm51490', 'Pde8a', 'Sec11a', 'Gm51451', 'Alpk3', 'Gm7180', 'Gm32112', 'Nmb', 'Gm44968', 'Slc28a1', 'Zfp592', 'Wdr73', 'Gm32178', 'Zscan2'}
+chr7:45123239-45123419	{'Dhdh'}
+chr2:157698162-157771625	{'Gm14176', 'Vstm2l', 'Ctnnbl1'}
+chr15:76904451-76904539	{'Mb'}
+chr3:86221535-87213458	{'Gm18403', 'Fcrl2', 'Gm46810', 'Mab21l2', 'Gm31879', 'Cd1d2', 'Dclk2', 'Gm23376', 'Gm25039', 'Gm52625', 'Gm8869', 'Gm3788', 'Cd1d1', 'Gm40083', 'Gm23850', 'Gm24472', 'Lrba', 'Gm31677', 'Kirrel1', 'Gm10705'}
+chr4:143979463-143981306	set()
+chr5:146835105-146835564	set()
+chr8:70896046-70896133	set()
+chr4:8393749-8393787	{'Gm42252'}
+chr11:53553914-53595553	{'Rad50'}
+chr10:61150045-61966605	{'Lrrc20', 'Fam241b', 'Npffr1', 'D830039M14Rik', 'Macroh2a2', 'Gm2137', 'Gm51766', 'Tysnd1', 'Gm28447', 'Gm30121', 'Sar1a', 'Gm5750', 'Aifm2', 'Gm5424', 'Mir5108', 'Gm17829', '1700022H01Rik', 'Eif4ebp2', 'Pald1', 'Gm47593', 'Ppa1', 'Nodal', 'Gm51765', 'Gm40674', 'Col13a1'}
+chr8:123103357-123103898	{'Zc3h18'}
+chr11:96715165-96785466	{'Copz2', 'Gm11524', 'Gm11523', 'Nfe2l1', 'Mir152', 'Gm38961'}
+chr12:28631775-28633768	{'Allc'}
+chr10:77173959-77490836	{'Gm17769', 'Itgb2', 'Gm51791', 'Gm36040', 'Gm18119', 'Ube2g2', 'Gm35983', 'Adarb1', 'Gm35920', 'Mir1930', '2810425M01Rik', 'Gm46236', 'Slx9', 'Pttg1ip', 'Sumo3'}
+chr19:3225880-4063538	{'1700030N03Rik', 'Nudt8', 'Mrpl21', 'Ppp6r3', 'Gm52386', 'Tesmin', 'Ndufs8', 'Cpt1a', 'Mir12192', 'Tcirg1', 'Unc93b1', 'Aldh3b3', 'Tbx10', 'Aldh3b1', 'Gm23940', 'Chka', 'Lrp5', 'Ndufv1', 'Gm42059', 'Gm36787', 'Gm50432', '1810055G02Rik', 'Doc2g', 'Gm7798', 'Gm36672', 'Gal', 'Aldh3b2', 'Gm19205', 'Gm19209', 'Gm2106', 'Kmt5b', 'Acy3', 'Gm36608', 'Ighmbp2', 'Mir6984', 'Gm2141'}
+chr10:128036561-128046168	{'Gls2', 'Spryd4'}
+chr4:136050391-136051171	{'Hnrnpr'}
+chr19:7011340-7481050	{'Stip1', 'Mark2', 'Otub1', 'Mir6991', 'Gm22113', 'Gm18842', '1700105P06Rik', 'Rcor2', 'Macrod1', 'Naa40', 'Zfta', 'Gm17227', 'Spindoc', 'Rtn3', 'Rab11b-ps2', 'Atl3', '5730409K12Rik', 'Cox8a', 'Flrt1', 'Gm38621'}
+chr7:24885553-24888282	set()
+chr11:68902443-68903179	set()
+chr9:120572863-120573576	set()
+chr6:39365881-39525908	{'8030453O22Rik', 'Gm10244', 'Mkrn1', 'Gm25402', 'Dennd2a', 'Gm52860', 'Rab19'}
+chr1:63177877-63178439	{'Ino80dos'}
+chr10:128625338-128626063	set()
+chr8:95234342-95458549	{'n-TLcag4', 'Nlrc5', 'Cpne2', 'Gm38555', 'Gm18002', 'Gm57522', 'n-TLcag5', 'Gm51584', 'Rspry1', 'Pllp', 'Arl2bp', 'Gm53412', 'Psme3ip1'}
+chr8:123102763-123102845	set()
+chr11:96715165-97224984	{'Mir7235', 'Gm51916', 'Sp6', 'Sp2', 'Gm11592', 'Npepps', 'Tbx21', 'Kpnb1', 'Gm51917', 'Mrpl45', 'Gm53647', 'Gpr179', 'Lrrc46', 'Gm11532', 'Osbpl7', 'Scrn2', 'Cdk5rap3', 'Mrpl10', 'Copz2', 'Gm11523', 'D030028A08Rik', 'Gm11533', 'Gm31005', 'Pnpo', 'Gm38961', 'Mir8103', 'Gm11525', 'Gm11524', 'Prr15l', 'Nfe2l1', 'Tbkbp1', 'Mir152'}
+chr7:127955630-128143546	{'Gm40457', 'Gm57509', 'Bag3', 'Gm32816', 'Gm39092', 'Gm32765', 'Tial1', 'Rgs10'}
+chr12:111062803-111093362	{'Rcor1'}
+chr19:4065292-4065330	set()
+chr12:69157822-69158661	set()
+chr4:143979387-143979425	set()
+chr7:3704769-3705733	set()
+chr5:107903869-107904717	{'Evi5'}
+chr10:80293877-80293967	set()
+chr4:46463930-46468559	{'Anp32b'}
+chr17:33952592-33955078	set()
+chr7:3705920-3706651	set()
+chrX:101486890-101490772	{'Gm32262', 'Hdac8'}
+chr7:127127956-127173325	{'Srcap', 'Tmem265', 'Phkg2'}
+chr4:132851541-133573401	{'Gpatch3', 'Mir7017', 'Mir5122', 'Trnp1', 'Slc9a1', 'Tent5b', 'Mir7227', 'Fcnc-ps', 'Gm42323', 'Gm29942', '1700091J24Rik', 'Zdhhc18', 'Gm34296', 'Gm30019', 'Tmem222', 'Wdtc1', 'Gpn2', 'Map3k6', 'Gm25270', 'Sfn', 'Gpr3', 'Wasf2', 'Gm13213', 'Sytl1', 'Gm13257', 'Cd164l2', 'Arid1a', 'Kdf1', 'Nr0b2', 'Gm42322', 'Pigv', 'Gm12974', 'Gm42324', 'Nudc'}
+chr19:46068755-46522954	{'Mfsd13a', 'Gbf1', 'Fbxl15', 'Trim8', 'Nolc1', 'Arl3', 'Gm24610', 'Elovl3', 'Psd', 'Gm36493', 'Cuedc2', 'Pitx3', 'Actr1a', 'Mir146b', '4833438C02Rik', 'Gm8974', '2310034G01Rik', 'Nfkb2', 'Sufu'}
+chr11:96715165-97381197	{'Mir7235', 'Gm51916', 'Sp6', 'Sp2', 'Gm11592', 'Npepps', 'Tbx21', 'Kpnb1', 'Gm51917', 'Arhgap23', 'Socs7', 'Mrpl45', 'Gm53647', 'Gpr179', 'Lrrc46', 'Gm11532', 'Osbpl7', 'Scrn2', 'Cdk5rap3', 'Mrpl10', 'Copz2', 'Gm11523', 'D030028A08Rik', 'Gm11533', 'Gm31005', '4933428G20Rik', 'Pnpo', 'Gm38961', 'Mir8103', 'Gm11525', 'Gm11524', 'Prr15l', 'Nfe2l1', 'Tbkbp1', 'Mir152'}
+chr18:75002853-75003194	set()
+chr3:130728852-130729051	set()
+chr7:109520643-109521601	{'Dennd5a'}
+chr5:134327775-134336137	{'Gtf2i'}
+chr17:74140873-74751845	{'Gm9351', 'Gm52299', 'Gm4948', 'Gm4708', 'Gm18068', 'Spast', 'Slc30a6', 'Srd5a2', 'Memo1', 'Gm31235', 'Gm9316', 'Gm24475', 'Gm53977', 'Xdh', 'Gm53978', 'Gm31328', 'Nlrc4', 'Dpy30', 'Gm30983', 'Gm9349'}
+chr9:120127831-120128457	set()
+chr8:111190666-111233628	{'Hydin', 'Gm21283'}
+chr2:75639088-75639126	{'Gm13669'}
+chr4:3835292-3835484	{'Rps20'}
+chr12:69159471-69361199	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr12:69159566-69361289	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr4:116861397-117054831	{'Gm25099', 'Snord38a', 'Gm26330', 'Snord55', 'Gm13015', 'Gm22980', 'Hectd3', 'Plk3', 'Kif2c', 'Eif2b3', 'Gm12997', 'Best4-ps', 'Gm22335', 'Btbd19', 'Dynlt4', 'Rps8', 'Ptch2'}
+chr2:180257684-180257788	{'Col9a3'}
+chr3:90613905-90614191	set()
+chr11:69522939-69986130	{'Tnfsf12', 'Phf23', 'Chrnb1', 'Tnfsf13', 'Spem3', 'Slc2a4', 'Mir324', 'Tmem102', 'Tnk1', 'Spem2', 'Mir6924', 'Ybx2', 'Gm12310', 'Ctdnep1', 'Eif5a', 'Mir467f', 'Eif4a1', 'Cldn7', 'Sox15', 'Dvl2', 'Neurl4', 'Tmem95', 'Fxr2', 'Fgf11', 'Asgr1', 'Spem1', 'Gm22988', 'Gm24029', 'Gm32708', 'Gps2', 'Nlgn2', 'Cd68', 'Senp3', 'Tnfsf13os', 'Plscr3', 'Slc35g3', 'Polr2a', 'Gabarap', 'Mir1934', 'Zbtb4', 'Acap1', 'Asgr2', 'Tmem256', 'Kctd11', '2810408A11Rik', 'Elp5', 'Acadvl', 'Mpdu1', 'Dlg4', 'Gm25835', 'Gm32946', 'Tnfsfm13', 'G630025P09Rik'}
+chr15:99105934-99385958	{'Spats2', 'Fmnl3', 'Gm46538', 'Prpf40b', 'Nckap5l', 'Mcrs1', 'Tmbim6', 'Kcnh3', '1700120C14Rik', 'Fam186b', 'Gm22951', 'Bcdin3d', 'Gm25999', 'Nckap5los'}
+chr15:76905037-76905856	{'Mb'}
+chr7:99737458-100621780	{'Gm10603', 'Relt', 'Mrpl48', 'Plekhb1', 'Gm39058', 'Gm3200', 'Gm51453', 'Gm34877', 'Lipt2', 'Mir3102', 'C2cd3', 'P2ry6', 'Cox20b', 'Gm39057', 'Arhgef17', 'Gm7067', 'Ucp2', 'Gm34760', 'Gm51452', 'Gm53385', 'Ppme1', 'Gpx2-ps1', 'P4ha3', 'Kcne3', 'Gm35082', 'Ucp3', 'Pold3', 'Fam168a', 'Coa4', 'Gm39059', 'Gm45994', 'Pgm2l1', 'Gm34821', 'Gm8463', 'Rab6a', 'Dnajb13'}
+chrX:134586579-134587451	{'Tcp11x2'}
+chr3:130729151-130729229	set()
+chr11:96715165-97620512	{'Mir7235', 'Gm51916', 'Epop', 'Sp6', 'Pcgf2', 'Sp2', 'Gm11592', 'Npepps', 'n-TNgtt8', 'Tbx21', 'Kpnb1', 'Gm51917', 'Arhgap23', 'Socs7', 'Mrpl45', 'Gm38962', 'Gm53647', 'Gpr179', 'Lrrc46', 'Pip4k2b', 'Gm11532', 'Osbpl7', 'Scrn2', 'Cdk5rap3', 'Srcin1', '2410003L11Rik', 'Mrpl10', 'Copz2', 'Gm11523', 'Cisd3', 'D030028A08Rik', 'Mllt6', 'Gm11533', 'Psmb3', 'Gm31005', '4933428G20Rik', 'Mir6927', 'Pnpo', 'Gm38961', 'Mir8103', 'Gm11613', 'Gm11525', 'Gm11524', 'Prr15l', 'Nfe2l1', 'Tbkbp1', 'Mir152'}
+chr2:13578751-13579421	{'Vim'}
+chr10:117652865-117772093	{'Gm32552', 'Gm53637', 'Gm32605', 'Gm40773', 'Rap1b', '4933411E08Rik'}
+chr3:86138593-86139040	{'Lrba'}
+chr17:74345088-74751845	{'Gm9351', 'Gm52299', 'Spast', 'Slc30a6', 'Gm53978', 'Srd5a2', 'Gm31328', 'Nlrc4', 'Dpy30', 'Memo1', 'Gm4708', 'Gm31235', 'Gm9349', 'Gm9316'}
+chr8:110548522-110780916	{'Gm45795', 'Gm17344', '8030455M16Rik', 'Tat', 'Marveld3', '1700064F23Rik', 'Chst4', 'Ap1g1', 'Phlpp2', 'Gm25321', 'Snord71'}
+chr8:123102987-123103183	set()
+chr7:45458284-45458535	{'Cyth2'}
+chr4:3834684-3834936	{'Rps20'}
+chr14:75845691-75846203	set()
+chr15:78929805-78929998	{'Gm3924'}
+chr2:180258058-180258230	{'Col9a3'}
+chr15:98817480-99385958	{'Gm41398', 'Dnajc22', 'Kcnh3', '1700120C14Rik', 'C1ql4', 'Gm22951', 'Bcdin3d', 'Gm25999', 'Mir6960', 'Spats2', 'Gm41396', 'Tuba1b', 'B430209F14Rik', 'Nckap5l', 'Mcrs1', 'Prph', 'Tmbim6', 'Gm41399', 'Tuba1a', 'Gm46538', '4930578M01Rik', 'Fam186b', 'Troap', 'Fmnl3', 'Prpf40b', 'Tuba1c', 'Gm57817', 'Gm34284', 'Gm25183', 'Gm8973', 'Nckap5los'}
+chr11:33160922-33161106	set()
+chr8:70827678-71608836	{'Gm17576', 'Gm51534', 'Gm18209', 'Crlf1', 'Rab3a', 'Mir7067', 'Ifi30', 'Mpv17l2', 'Gdf15', 'Gm3643', 'Vmn2r-ps90', 'Uba52', 'Snora68', '2010320M18Rik', 'Gm7827', 'Pgpep1', 'Map1s', 'Gm39191', 'Il12rb1', 'Crtc1', 'Lsm4', 'Lrrc25', 'Comp', 'Gm3336', 'Mast3', 'Mir7240', 'Gm34154', 'Jund', 'Mir1969', 'Pik3r2', 'Gm10654', 'Tmem59l', 'Iqcn', 'Klhl26', 'Fkbp8', 'Slc5a5', 'Rpl18a', '1700026F02Rik', '1700020G03Rik', 'Arrdc2', '4930522P08Rik', 'Pde4c', 'Kxd1', '6330537M06Rik', 'Gm34255', 'Kcnn1', 'Ccdc124', 'Ell', 'Ssbp4', 'Rex1bd', 'Isyna1'}
+chr18:77752197-77757422	{'Ark2n'}
+chr4:117155108-117155571	{'Rnf220', 'Gm12843'}
+chr9:21682168-21712782	{'Kank2', 'Dock6'}
+chr15:78926805-78927970	{'Galr3'}
+chr4:138054477-138122134	{'Cda', 'Fam43b'}
+chr19:4065254-4065368	set()
+chr12:69159459-69361174	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr1:86526951-86529173	{'Cops7b'}
+chr11:6368832-7331989	{'Gm11980', 'Ramp3', 'Igfbp3', 'Gm11970', 'Igfbp1', 'Gm11981', 'Gm24000', 'Gm11972', 'Ccdc201', 'Myo1g', 'Gm57582', 'Purb', 'Gm11978', 'Wap', 'Adcy1', 'Snora5c', 'Gm36565', 'Gm53666', 'Gm11971', 'Tbrg4', 'Snhg15', 'Nacad', 'Gm39575', 'Gm11977', 'Gm24313', 'Gm11983', 'H2az2', 'Ccm2', 'Ppia', 'Snora9'}
+chr11:29546423-29546703	set()
+chr9:120129277-120130118	set()
+chr4:117154814-117155008	{'Rnf220', 'Gm12843'}
+chr15:36601410-36602846	{'Pabpc1'}
+chr13:90924447-90924537	set()
+chr17:74704968-74751845	{'Slc30a6', 'Nlrc4', 'Gm4708'}
+chr8:70175419-70524236	{'Gm51532', 'Sugp1', 'Pbx4', 'Tssk6', 'Ndufa13', 'Gmip', 'Gm33746', 'Gm33695', 'Gatad2a', 'Zfp963', 'Yjefn3', 'Gm19893', 'Cilp2', 'Atp13a1', 'Zfp866', 'Lpar2', 'Mau2', 'Gm7730'}
+chr17:28329523-28330525	set()
+chr12:17549587-17549668	set()
+chr2:155077108-155413293	{'Gm14238', 'Gss', 'Dynlrb1', 'Ggt7', 'Pigu', 'Gm14239', 'Acss2', 'Ncoa6', 'Acss2os', 'Map1lc3a', 'Gssos2', 'Trp53inp2', 'Mir695', 'Gm17959', 'Gm52565'}
+chr7:127638189-127720424	{'Gm9299', 'Itgam', 'Gm22809'}
+chr2:32963067-32963497	{'Garnl3'}
+chr11:97318754-97357626	{'Arhgap23'}
+chr1:143529495-143796963	{'Gm25663', 'Gm38658', 'Cdc73', 'Ro60', 'Glrx2', 'Gm46161', 'Uchl5', 'Gm6397'}
+chr7:99482355-99482570	set()
+chr19:4065254-4065406	set()
+chr19:6058573-6059144	{'Capn1'}
+chr4:147807499-147816163	set()
+chr7:127794567-127820364	{'Cox6a2', '4931431B13Rik', 'Itgad'}
+chr19:3225266-4062909	{'1700030N03Rik', 'Nudt8', 'Mrpl21', 'Ppp6r3', 'Gm52386', 'Tesmin', 'Ndufs8', 'Cpt1a', 'Mir12192', 'Tcirg1', 'Unc93b1', 'Aldh3b3', 'Tbx10', 'Aldh3b1', 'Gm23940', 'Chka', 'Lrp5', 'Ndufv1', 'Gm42059', 'Gm36787', 'Gm50432', '1810055G02Rik', 'Doc2g', 'Gm7798', 'Gm36672', 'Gal', 'Aldh3b2', 'Gm19205', 'Gm19209', 'Gm2106', 'Kmt5b', 'Acy3', 'Gm36608', 'Ighmbp2', 'Mir6984', 'Gm2141'}
+chr2:155077108-155213675	{'Dynlrb1', 'Pigu', 'Map1lc3a', 'Mir695', 'Gm52565'}
+chr2:155077108-155360416	{'Gm14238', 'Dynlrb1', 'Ggt7', 'Pigu', 'Gm14239', 'Acss2', 'Ncoa6', 'Map1lc3a', 'Trp53inp2', 'Mir695', 'Gm17959', 'Gm52565'}
+chr5:43210405-44136782	{'Gm54296', 'Gm5292', 'Gm35762', 'Gm46911', 'Cpeb2', 'Fgfbp1', 'Gm15866', 'Bst1', 'Gm7882', 'Ppihl', 'Cd38', 'Gm43699', 'Fbxl5', 'Cc2d2a', 'Gm16015', 'C1qtnf7', 'Gm7854'}
+chr13:55416962-55419098	{'Nsd1'}
+chr2:155077108-156030953	{'Ggt7', 'Acss2', 'Pigu', 'Gm14239', 'Gdf5', 'Cep250', 'Rbm39', 'Fam83c', 'Acss2os', 'Gm54125', 'Ergic3', 'Gssos2', 'Mir695', 'Procr', 'Gm17959', 'Trpc4ap', 'Uqcc1', 'Gss', 'Gm22334', 'Romo1', 'Map1lc3a', 'Mmp24', 'Mmp24os1', '6430550D23Rik', 'Edem2', 'Gm14238', 'Fer1l4', 'Cpne1', 'Gm46772', 'Spag4', 'Gm50621', 'Gm39970', 'Mir499', 'Rbm12', 'Nfs1', 'Dynlrb1', 'Ncoa6', 'Eif6', 'Myh7b', 'Trp53inp2', 'Gm52565', 'Gm14240'}
+chr6:74501457-75030978	set()
+chr10:128548430-128548658	{'Pmel'}
+chr5:107904895-107907189	{'Evi5'}
+chr12:28634353-28635416	set()
+chr7:16249470-16759684	{'Ceacam9', 'Ceacam15', 'Gm25815', 'Ppp5c', 'Gm8209', 'Slc1a5', 'Ceacam-ps1', 'Ap2s1', 'Gng8', 'Ptgir', 'Strn4', 'Dact3', 'Calm3', 'Ccdc8', 'Pnma8c', 'Pnma8b', 'Fkrp', 'Gm29443', 'Pnma8a', 'Gm24708', 'Gm45972', 'Arhgap35', '9330104G04Rik', 'Gm5586', 'Prkd2', 'Gm32630'}
+chr12:24083943-24084261	set()
+chr15:78928050-78929633	set()
+chr11:98029516-98029775	{'Fbxl20'}
+chr15:36600689-36600870	{'Pabpc1'}
+chr12:69159495-69361218	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chrX:37082750-37083985	set()
+chr2:13574995-13575541	{'Gm9875'}
+chr11:97945599-98269199	{'Med1', 'Gm11604', 'Mir5119', 'Neurod2', 'Gm31317', 'Ppp1r1b', 'Gm38963', 'Cdk12', 'Gm38970', 'Gm33099', 'Gm31194', 'Stard3', 'Fbxl20', '1700003D09Rik'}
+chr10:61150045-62047705	{'Tspan15', 'Neurog3', 'Lrrc20', 'Fam241b', 'Npffr1', 'D830039M14Rik', 'Macroh2a2', 'Gm2137', 'Gm51766', 'Tysnd1', 'Gm28447', 'Gm30121', 'Sar1a', 'Gm5750', 'Aifm2', 'Gm5424', 'Mir5108', 'Gm17829', '1700022H01Rik', 'Eif4ebp2', 'Pald1', 'Gm47593', 'Ppa1', 'Nodal', 'Gm51765', 'Gm40674', 'Col13a1', 'Mir7662'}
+chr7:45123551-45124297	{'Dhdh'}
+chr6:99318368-100164915	{'Gm26748', 'Gm33201', 'Tpt1-ps3', 'Gpr27', 'Gm6681', 'Gm33143', 'Gm52869', 'Eif4e3', 'Gm53300', 'Gm33448', '2010109P13Rik', 'Gm33297', 'Gm38866', 'Prok2', 'Gm33243', 'Foxp1', 'Btf3-ps6'}
+chr7:24884668-24885136	set()
+chr7:45720488-45720714	{'Nomo1'}
+chr6:115805689-115806986	{'Efcab12'}
+chr16:31302886-31385255	{'Gm52238', 'Gm46560', 'Gm34032'}
+chr4:146937779-146937817	set()
+chr2:30271215-30291310	{'Dolpp1', 'Crat', 'Miga2'}
+chr4:86856860-86857321	set()
+chr7:100632888-100794231	{'P2ry2', 'Fchsd2', 'Gm5735'}
+chr17:45569127-45569240	{'Gm41582'}
+chr19:6657917-7000790	{'Bad', 'Stip1', 'Mir6990', 'Gpr137', 'Ppp1r14b', 'Gm51400', 'Plcb3', 'Nudt22', 'Gm54052', 'Rps6ka4', 'Mir5046', 'Kcnk4', 'Fkbp2', 'Vegfb', 'Ccdc88b', 'Gm52400', 'Gm54053', 'Fermt3', 'Trpt1', 'Trmt112', 'Esrra', 'Gm54051', 'Gm19053', 'Prdx5', 'Catsperz', 'Dnajc4'}
+chr8:69779580-70524236	{'Gm51532', 'Gm10033', 'Tssk6', 'Ndufa13', 'Gm33746', 'Zfp963', 'Gm19893', 'Atp13a1', 'Gm3365', 'Potefam3c', 'Rps7-ps1', 'Gmip', 'Lpar2', 'Zfp869', 'Pbx4', 'Gm7730', 'Mau2', 'Zfp868', 'Zfp964', 'Sugp1', 'Gm33695', 'Potefam3d', 'Gatad2a', 'Yjefn3', 'Cilp2', 'Zfp866', 'Gm7688'}
+chr4:129403301-129415708	{'Hdac1', 'Marcksl1'}
+chr7:141448775-141451004	{'Tollip'}
+chr11:116568715-116895331	{'Mfsd11', 'St6galnac2', 'Srsf2', 'BC018473', 'Mxra7', 'Mgat5b', 'Gm11735', 'Jmjd6', 'Gm33829', 'Mettl23', 'St6galnac1'}
+chrX:158789346-158886888	{'Map3k15', 'Gm8682'}
+chr7:16249470-16776772	{'Ceacam9', 'Ceacam15', 'Gm25815', 'Ppp5c', 'Hif3a', 'Gm8209', 'Slc1a5', 'Ceacam-ps1', 'Ap2s1', 'Gng8', 'Ptgir', 'Strn4', 'Dact3', 'Calm3', 'Ccdc8', 'Pnma8c', 'Pnma8b', 'Fkrp', 'Gm29443', 'Pnma8a', 'Gm24708', 'Gm45972', 'Arhgap35', '9330104G04Rik', 'Gm5586', 'Prkd2', 'Gm32630'}
+chr12:110694705-110695052	set()
+chr7:99482701-99483592	set()
+chr9:78480689-78481639	{'Slc17a5'}
+chr7:16249470-16541198	{'Ap2s1', 'Ceacam9', 'Gm29443', 'Ceacam15', 'Gm5586', 'Slc1a5', 'Gm24708', 'Arhgap35', 'Gm8209', 'Ceacam-ps1'}
+chr14:24491816-24491907	{'Gm47814'}
+chr3:88130646-88263934	{'Gm3764', 'Tmem79', 'Smg5', 'Cct3', 'Tsacc', 'Glmp', 'Rhbg'}
+chr11:86815353-86815391	set()
+chr11:96122445-96715165	{'Hoxb5', 'Gm53', 'Hoxblinc', 'Hoxb5os', 'Mir10a', 'Hoxb8', 'Gm11531', 'Gm38960', 'Hoxb3os', 'Cbx1', 'Mir196a-1', 'Hoxb6', 'Hoxb3', 'Hoxb4', 'Hoxb9', 'Hoxb7', 'Hoxb2', 'Gm11517', 'Gm11539', 'Gm11529', 'Hoxb1', 'Nfe2l1', 'Gm11536', 'Skap1', 'Gm51876', 'Snx11'}
+chr14:24490759-24491750	{'Gm47814'}
+chr5:146835715-146835864	set()
+chr16:31302886-31399639	{'Gm52238', 'Gm46560', 'Gm34032'}
+chr7:3704449-3704646	set()
+chr6:39365881-39403034	{'Gm10244', 'Gm25402', 'Mkrn1', 'Rab19'}
+chr13:68215095-68234777	set()
+chr11:98028469-98029395	{'Fbxl20'}
+chr2:13575602-13578413	{'Gm9875'}
+chr8:70896313-70897359	set()
+chr4:143979387-143981268	set()
+chr11:114668967-114671734	{'Kif19a'}
+chr8:111232308-111233628	{'Hydin'}
+chr5:146834263-146834448	set()
+chr10:62571962-62696235	{'Snord98', 'Ccar1', 'Tet1'}
+chr11:86815315-86815429	set()
+chr4:3835010-3835192	{'Gm24016', 'Rps20'}
+chr19:8972637-8972904	{'Ahnak'}
+chr4:131898289-132107443	{'Rab42', 'Snora73a', 'Ythdf2', 'Taf12', 'Gm13252', 'Snord99', 'Snora16a', 'Rcc1', 'Rnu11', 'Snhg3', 'Snora61', 'Rps15a-ps4', 'Snhg12', 'Snora44', 'Gm28874', 'Trnau1ap', 'Phactr4', 'Gmeb1', 'Snora73b'}
+chr18:89836464-89836578	{'Gm41800'}
+chr7:127127956-127720424	{'Gm53375', 'Cfap119', 'Rnf40', 'Gm53373', 'Itgam', 'Fus', 'Pycard', 'Prss8', 'Hsd3b7', 'Gm19366', 'Kat8', 'Ctf1', 'Zfp646', 'Gm39090', '1700120K04Rik', 'Tmem265', 'Bckdk', 'Mir762', 'Setd1a', 'Fbxl19', 'Ctf2', 'Zfp629', 'Gm5738', 'Stx1b', 'Phkg2', 'Orai3', 'Gm22809', 'Gm53374', 'Srcap', 'Bcl7c', 'Trim72', 'Gm51458', 'Stx4a', 'Prss36', 'Zfp668', 'Gm9299', 'Vkorc1', 'Prss53'}
+chr5:125387074-125387530	{'Gm32701', 'Scarb1'}
+chr15:98817480-98906791	{'Gm41396', 'Tuba1b', 'Tuba1a', '4930578M01Rik', 'B430209F14Rik', 'Gm8973'}
+chr9:78478859-78478958	{'Slc17a5'}
+chr1:86358224-86359206	{'Gm32700'}
+chr18:35659673-35669656	{'Gm5239'}
+chr12:21939939-22475332	{'Gm53744', 'Gm49248', 'Gm6838', 'Gm40857', 'Gm9282', 'Gm9283', 'Gm4425', 'Gm9289', 'Gm40856', 'Gm10476'}
+chr7:45720019-45720294	{'Nomo1'}
+chr9:120128623-120129158	set()
+chr5:115561246-115561333	{'A930005G22Rik', 'Gm13832'}
+chr7:45126033-45126115	{'Dhdh'}
+chr1:16103335-16103510	set()
+chr1:86355145-86356052	{'Tex44'}
+chr19:46068755-46462152	{'Cuedc2', 'Mfsd13a', 'Pitx3', 'Gm24610', 'Elovl3', 'Mir146b', 'Actr1a', 'Sufu', 'Gbf1', '4833438C02Rik', 'Gm8974', 'Psd', 'Fbxl15', '2310034G01Rik', 'Nolc1', 'Nfkb2', 'Gm36493'}
+chr4:143979501-143981268	set()
+chr8:70620285-71608836	{'Ddx49', 'Gm51534', 'Slc25a42', 'Gm18209', 'Armc6', 'Crlf1', 'Rab3a', 'Sugp2', 'Mir7067', 'Gm17576', 'Ifi30', 'Tmem161a', 'Gdf15', 'Mpv17l2', 'Vmn2r-ps90', 'Gm3643', 'Uba52', 'Snora68', '2010320M18Rik', 'Gm7827', 'Pgpep1', 'Map1s', 'Gm39191', 'Cope', 'Crtc1', 'Il12rb1', 'Lsm4', 'Lrrc25', 'Comp', 'Gm3336', 'Mast3', 'Mir7240', 'Gm34154', 'Jund', 'Mir1969', 'Pik3r2', 'Gm10654', 'Cers1', 'Tmem59l', 'Iqcn', 'Gdf1', 'Klhl26', 'Fkbp8', 'Slc5a5', 'Rpl18a', '1700026F02Rik', '1700020G03Rik', 'Arrdc2', 'Gm51533', '4930522P08Rik', 'Pde4c', 'Kxd1', 'Homer3', 'Upf1', '6330537M06Rik', 'Gm38427', 'Gm34255', 'Kcnn1', 'Ccdc124', 'Ell', 'Ssbp4', 'Rex1bd', 'Isyna1'}
+chr12:76359739-76574647	{'Mthfd1', 'Zbtb1', '4930426I24Rik', 'Zbtb25', 'Ppp1r36', 'Hspa2', 'Akap5', 'Gm40445', 'Ppp1r36dn', 'Gm25563', 'Gm40443'}
+chr7:4792999-4793321	set()
+chr7:45122959-45123163	{'Dhdh'}
+chr7:45459231-45459530	{'Cyth2'}
+chr1:63178566-63178832	{'Ino80dos'}
+chr12:23643013-24084833	{'Gm38699', 'Gm53745', 'Gm50592', 'Gm5954', 'Gm9305', 'Gm17330'}
+chr11:96122445-96222262	{'Gm11539', 'Hoxb4', 'Hoxb9', 'Hoxb5', 'Hoxb7', 'Gm53', 'Hoxblinc', 'Hoxb3', 'Hoxb5os', 'Mir10a', 'Mir196a-1', 'Hoxb6', 'Hoxb8', 'Gm51876'}
+chr9:120130897-120131000	set()
+chr17:24720453-24720534	{'Caskin1'}
+chr12:54714383-54734584	{'Eapp', 'Gm36262'}
+chr4:116065317-116147036	{'Pik3r3', 'Gm18535'}
+chr19:6058326-6058428	{'Capn1'}
+chr14:75846394-75846694	set()
+chr15:83160951-83161850	{'Gm32788'}
+chr11:95877475-96055445	{'Igf2bp1', 'Ube2z', 'Ttll6', 'Atp5mc1', 'Gm22423', 'Gm24949', 'Gm30084', 'Snf8', 'Gip', 'Calcoco2'}
+chr12:23026201-23643013	{'Gm9293', 'Gm53747', 'Gm38699', '2410018L13Rik', 'Gm9286', 'Gm9291', 'Gm20472', 'Gm53268', 'Gm9285', 'Gm9292'}
+chr19:46068755-46103074	{'Nolc1'}
+chr11:86815277-86815467	set()
+chr17:6413059-6415503	{'Gm29719'}
+chr6:37883223-37996765	{'Gm18401', 'Svopl', 'Trim24'}
+chr19:46068755-46130026	{'Nolc1', 'Elovl3', 'Pitx3'}
+chr15:79274990-79858723	{'Cbx7', 'Apobec3', 'Gtpbp1', 'Ddx17', 'Kdelr3', 'Cby1', 'Cbx6', 'Gm16059', 'Kcnj4', 'Gm41359', 'Gm30877', 'Tmem184b', 'Dnal4', 'Josd1', 'D730005E14Rik', 'Gm30977', 'Npcd', 'Fam227a', 'Gm10856', 'Gm57816', 'Nptxr', 'Tomm22', 'Sun2', 'Csnk1e', 'Gm16576', 'Dmc1'}
+chr6:115807168-115807802	{'Efcab12'}
+chr11:48803969-48804156	{'Gm12185'}
+chr12:111961539-111962433	{'Tdrd9'}
+chr19:4065330-4065482	set()
+chr10:128046254-128046729	{'Spryd4'}
+chr8:123102446-123102653	set()
+chr12:69159506-69361225	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr17:28329048-28329374	set()
+chr19:60770020-60771015	{'Eif3a'}
+chr11:78004997-78011901	{'Fam222b'}
+chr19:23621998-23793376	{'Ptar1', 'Cfap95', 'Gm6563', 'Apba1'}
+chr7:4794183-4794418	set()
+chr7:28350852-28350992	set()
+chr7:19642433-19799841	{'Gm8432', 'Gm16184', 'Pvr', 'Rpl7a-ps8', 'Igsf23', 'Nlrp9b', 'n-R5s152', 'Ceacam20', 'Gm16251'}
+chr19:3226230-4063891	{'1700030N03Rik', 'Nudt8', 'Mrpl21', 'Ppp6r3', 'Gm52386', 'Tesmin', 'Ndufs8', 'Cpt1a', 'Mir12192', 'Tcirg1', 'Unc93b1', 'Aldh3b3', 'Tbx10', 'Aldh3b1', 'Gm23940', 'Chka', 'Lrp5', 'Ndufv1', 'Gm42059', 'Gm36787', 'Gm50432', '1810055G02Rik', 'Doc2g', 'Gm7798', 'Gm36672', 'Gal', 'Aldh3b2', 'Gm19205', 'Gm19209', 'Gm2106', 'Kmt5b', 'Acy3', 'Gm36608', 'Ighmbp2', 'Mir6984', 'Gm2141'}
+chr11:86634315-86660482	{'Cltc', 'Gm42085', 'Dhx40'}
+chr11:96122445-97053212	{'Mir7235', 'Gm51916', 'Hoxb5', 'Sp6', 'Gm53', 'Hoxblinc', 'Sp2', 'Hoxb5os', 'Mir10a', 'Tbx21', 'Kpnb1', 'Hoxb8', 'Gm51917', 'Gm11531', 'Lrrc46', 'Gm11532', 'Gm38960', 'Osbpl7', 'Scrn2', 'Cdk5rap3', 'Hoxb3os', 'Cbx1', 'Mir196a-1', 'Mir152', 'Hoxb6', 'Hoxb3', 'Hoxb4', 'Mrpl10', 'Hoxb9', 'Hoxb7', 'Copz2', 'Gm11523', 'Hoxb2', 'D030028A08Rik', 'Gm11533', 'Pnpo', 'Gm11517', 'Gm11539', 'Gm38961', 'Mir8103', 'Gm11529', 'Hoxb1', 'Gm11524', 'Gm11525', 'Prr15l', 'Nfe2l1', 'Tbkbp1', 'Gm11536', 'Skap1', 'Gm51876', 'Snx11'}
+chrX:74272318-74272672	{'F8'}
+chr10:81178893-81179081	{'Gipc3'}
+chr11:33161226-33161548	set()
+chr15:99399101-99921073	{'Gm17057', 'Aqp5', 'Fam186a', 'Smarcd1', 'Gm34939', 'Cox14', 'Racgap1', 'Gm25897', '1700121M21Rik', 'Faim2', 'Aqp2', 'Gm17241', 'Gm21917', 'Gm18890', 'Gpd1', 'Uqcrh-ps1', 'Aqp6', 'Gm5808', 'Gm34765', 'Cers5', 'Gm16537', 'Gm34880', 'Gm18095', 'Larp4', 'Gm20564', 'Gm4468', 'Lima1', '2310068J16Rik', 'Asic1'}
+chr4:8393635-8393749	{'Gm42252'}
+chr2:75639050-75639088	{'Gm13669'}
+chr13:62082900-62292589	{'Gm3325', 'Gm24539', 'Gm6478', 'Selenok-ps8', 'Gm21935', 'Gm40977', '2810408B13Rik', 'Zfp808', 'Selenok-ps5'}
+chr10:92740358-93101192	{'Gm32468', 'Gm40740', 'Mir1931', 'Gm40741', 'Gm40739', 'Cdk17', 'Cfap54', 'Elk3'}
+chr1:63178899-63179248	{'Ino80dos'}
+chr1:86357453-86358107	{'Gm32700'}
+chr10:128047805-128047999	set()
+chr19:45034267-45060007	{'Gm35782', 'Sfxn3', 'Pdzd7'}
+chr12:69159590-69361261	{'Klhdc2', 'Rpl36al', 'Gm7868', 'Rps29', 'Lrr1', 'Mgat2', 'Pole2', 'Nemf', 'Gm15571', '9330151L19Rik', 'Gm31447', 'Rn7s1', 'Dnaaf2', 'Gm24499', 'Klhdc1'}
+chr9:64177478-64177721	set()
+chr17:56614042-56614124	{'Uhrf1'}
+chr12:21939660-21939698	{'Gm40857'}
+chr5:65388680-65389071	{'Wdr19'}
+chr4:155830996-155928403	{'Ankrd65', 'Mxra8', 'Atad3a', 'Mrpl20', 'Ccnl2', 'Aurkaip1', 'Vwa1', 'Tmem88b', 'Gm54273', 'Atad3aos'}
+chr1:86353856-86355020	{'Tex44'}
+chr4:46460240-46463807	{'Anp32b'}
+chr18:89836464-89836502	{'Gm41800'}
+chr15:34440605-34441232	{'Rpl30', 'Gm24523'}
+chr12:111076194-111093362	{'Rcor1'}
+chr6:39365881-39636694	{'Braf', 'Gm34389', '8030453O22Rik', 'Ndufb2', 'Fth-ps2', 'Gm10244', 'Mkrn1', 'Adck2', 'Gm25402', 'Dennd2a', 'Gm52860', 'Rab19'}
+chr9:120572198-120572768	set()
+chr2:39001766-39004107	{'Scai', 'Gm30067'}
+chr2:75639012-75639088	{'Gm13669'}
+chr7:24885207-24885452	set()
+chr11:60151577-60165674	{'Tom1l2'}
+chrX:102188003-102188294	set()
+chr17:24721303-24721623	{'Caskin1'}
+chr7:45719340-45719529	{'Nomo1'}
+chr19:6603189-7476835	{'Hmgb1-ps4', 'Bad', 'Gm32245', 'Stip1', 'Mir6990', 'Gpr137', 'Ppp1r14b', 'Gm51400', 'Plcb3', 'Mark2', 'Otub1', 'Nudt22', 'Mir6991', 'Gm22113', 'Gm54052', 'Gm18842', 'Rps6ka4', 'Mir5046', 'Kcnk4', 'Fkbp2', '1700105P06Rik', 'Vegfb', 'Ccdc88b', 'Rcor2', 'Gm52400', 'Gm54053', 'Fermt3', 'Macrod1', 'Trpt1', 'Naa40', 'Trmt112', 'Zfta', 'Gm17227', 'Esrra', 'Spindoc', 'Rtn3', 'Gm54051', 'Rab11b-ps2', 'Gm19053', 'Atl3', '5730409K12Rik', 'Cox8a', 'Prdx5', 'Catsperz', 'Flrt1', 'Dnajc4', 'Gm38621'}
+chr11:6419286-6419478	{'Purb'}
+chr11:6385190-7331989	{'Gm11980', 'Ramp3', 'Igfbp3', 'Gm11970', 'Igfbp1', 'Gm11981', 'Gm24000', 'Gm11972', 'Ccdc201', 'Myo1g', 'Gm57582', 'Purb', 'Gm11978', 'Wap', 'Adcy1', 'Snora5c', 'Gm36565', 'Gm53666', 'Gm11971', 'Tbrg4', 'Snhg15', 'Nacad', 'Gm39575', 'Gm11977', 'Gm24313', 'Gm11983', 'H2az2', 'Ccm2', 'Snora9'}
+chr5:146834510-146834992	set()
+chr17:45570800-45571018	{'Gm41582'}
+chr12:21939660-21939736	{'Gm40857'}
+chr15:35935414-35937155	{'Cox6c'}
+chr5:65389611-65390388	{'Wdr19'}
+chr11:116497811-117069842	{'Mfsd11', 'Snhg20', 'Gm33829', 'Snord1a', 'Gm11730', 'Snord1b', 'St6galnac2', 'BC018473', 'Snhg16', 'Sec14l1', 'Srsf2', 'Mir6516', 'Mettl23', 'Rhbdf2', 'Gm11728', 'Snord1c', 'Mgat5b', 'Prcd', 'Mxra7', 'Gm11735', 'Jmjd6', 'Cygb', 'Gm51931', 'St6galnac1'}
+chr4:152327586-152330004	{'Acot7'}
+chr18:75002123-75002661	set()
+chr19:46068755-47065080	{'Mfsd13a', 'Gbf1', 'Fbxl15', 'Trim8', 'Nolc1', 'Arl3', 'Gm24610', 'Gm6967', 'Elovl3', 'Wbp1l', 'Gm36602', 'Psd', 'Gm36493', 'Cyp17a1', 'Gm18490', 'Gm23140', 'Cuedc2', 'Taf5', 'Gm41857', 'As3mt', 'Sfxn2', 'Pitx3', 'Actr1a', 'Mir146b', 'Borcs7', 'Nt5c2', '4833438C02Rik', 'Pcgf6', 'Gm8974', '2310034G01Rik', 'Gm18657', 'Ina', 'Nfkb2', 'Sufu', 'Cnnm2'}
+chr11:78182987-78183519	{'Rskr'}
+chr19:46068755-46545507	{'Mfsd13a', 'Gbf1', 'Fbxl15', 'Trim8', 'Nolc1', 'Arl3', 'Gm24610', 'Elovl3', 'Psd', 'Gm36493', 'Cuedc2', 'Pitx3', 'Actr1a', 'Mir146b', '4833438C02Rik', 'Gm8974', '2310034G01Rik', 'Nfkb2', 'Sufu'}
+chr2:6084395-6600622	{'Gm54100', 'Gm30136', 'Proser2', 'Gm46730', 'Celf2', 'Gm13383', 'A230108P19Rik', 'Gm13388', 'Gm13384', 'Gm13391', 'Gm10857', 'Gm52546', 'Echdc3', 'Usp6nl'}
+chr2:5970703-6600622	{'Gm54100', 'Gm30136', 'Upf2', 'Proser2', 'Gm46730', 'Celf2', 'Gm13383', 'A230108P19Rik', 'Gm13388', 'Gm13384', 'Gm13391', 'Gm10857', 'Gm52546', 'Echdc3', 'Usp6nl'}
+chr11:79937125-79938047	{'Crlf3'}
+chr4:134887606-135256310	{'Gm12983', 'Nipal3', 'Clic4', 'Stpg1', 'Gm30767', 'Runx3', 'Srrm1', 'Gm30701', 'Ncmap', 'Mir700', 'Rcan3', 'Gm12984'}
+chr3:90613227-90613743	set()
+chr5:115562567-115563283	{'A930005G22Rik'}
+chr9:65809543-65895766	{'Trip4', 'Csnk1g1', 'Pclaf', 'Gm22657'}
+chr11:48802421-48803404	{'Gm12185'}
+chr11:96715165-97237006	{'Mir7235', 'Gm51916', 'Sp6', 'Sp2', 'Gm11592', 'Npepps', 'Tbx21', 'Kpnb1', 'Gm51917', 'Mrpl45', 'Gm53647', 'Gpr179', 'Lrrc46', 'Gm11532', 'Osbpl7', 'Scrn2', 'Cdk5rap3', 'Mrpl10', 'Copz2', 'Gm11523', 'D030028A08Rik', 'Gm11533', 'Gm31005', 'Pnpo', 'Gm38961', 'Mir8103', 'Gm11525', 'Gm11524', 'Prr15l', 'Nfe2l1', 'Tbkbp1', 'Mir152'}
+chr17:27632357-27634072	set()
+chr2:13578509-13578589	set()
+chr9:65809543-66730014	{'Dapk2', 'Aph1b', 'Ppib', 'Gm50499', 'Gm19247', 'Trip4', 'Fbxl22', 'Car12', 'Gm22657', 'Herc1', 'Gm30447', 'Csnk1g1', 'Gm39364', 'Ciao2a', 'Aph1c', 'Snx1', 'Ppp1r2-ps4', 'Snx22', 'BC050972', 'Gm23428', 'Usp3', 'Pclaf'}
+chr1:86353281-86353732	set()
+chr7:12925866-12926396	{'Gm38947'}
+chr9:64178018-64178223	set()
+chr10:111490170-111490377	set()
+chr6:38544262-38685753	{'Luc7l2', 'Klrg2', 'Hipk2', 'Clec2l'}
+chr7:127794567-127942522	{'9130023H24Rik', '4931431B13Rik', 'Gm6916', 'Cox6a2', 'Rusf1', 'Itgad', 'Tgfb1i1', 'Slc5a2', 'Mir3103', 'Ahsp', 'Armc5'}
+chr2:154641755-154940855	{'Raly', 'Gm39966', 'Gm45609', 'Eif2s2', '2310005A03Rik', 'a', 'Ahcy', 'Gm39965'}
+chr9:64177071-64177321	set()
+chr11:97318754-98269199	{'Mir5119', 'Epop', 'Pcgf2', 'Gm38970', 'Lasp1', 'Stac2', 'n-TNgtt8', 'Arhgap23', 'Gm38962', 'Gm11604', 'Neurod2', 'Cacnb1', 'n-TCgca55', 'Pip4k2b', 'Rpl19', 'Srcin1', '2410003L11Rik', 'B230217C12Rik', 'Gm11633', 'Med1', 'n-TCgca56', 'Plxdc1', 'Ppp1r1b', 'n-TCgca18', 'Atp5l2-ps', 'Spmap1', 'Gm38963', 'Cisd3', 'Fbxo47', 'Mllt6', '4933428G20Rik', 'Gm31194', 'Mir6927', 'Cwc25', 'Gm33099', '1700003D09Rik', 'n-TCgca51', 'Gm11613', 'Gm31317', 'n-TCgca54', 'Cdk12', 'Arl5c', 'Rpl23', 'Stard3', 'Mir8102', 'Psmb3', 'Fbxl20', 'Snora21'}
+chr4:155684168-155928403	{'Mxra8', 'Mib2', 'Fndc10', 'Tmem240', 'Slc35e2', 'Ccnl2', 'Ssu72', 'Cdk11b', 'Gm16023', 'Gm54273', 'Atad3aos', 'Atad3a', 'Mrpl20', '1500002C15Rik', 'Tmem88b', 'Ankrd65', 'Gm22573', 'Aurkaip1', 'Vwa1', 'Mmp23'}
+chr6:29459978-29867677	{'Kcp', 'Gm38780', 'Ahcyl2', 'Gm30896', 'Spmip1', 'Gm26627', 'Atp6v1f', 'Smo', 'Flnc', 'Tspan33', 'Gm13717', 'Irf5', 'Tnpo3'}
+chr13:98068332-98707322	{'Gm48049', 'Utp15', 'Gm10320', 'Foxd1', 'Gm9828', 'Gm52050', 'Gm2445', 'Gm46437', 'Gm34469', 'Gm41033', 'Gm21976', 'Ankra2', 'Arhgef28', 'Btf3', 'Gm57601', 'Gm41032', '2310005E17Rik'}
+chr19:4767156-5762836	{'Ccdc85b', 'Mus81', 'Nscme3l', 'Peli3', 'Rab1b', 'Dpp3', 'Gal3st3', 'Gm54050', 'Pcnx3', 'B4gat1', 'D330050I16Rik', 'Gm25432', 'Rin1', 'Yif1a', 'Ctsw', 'Gm31166', 'Fosl1', 'Gm31070', 'Gm21992', 'Gm30840', 'Gm42064', 'Cfl1', 'Kat5', 'Map3k11', 'Efemp2', 'Ccdc87', 'Gm5242', 'Tmem151a', 'Eif1ad', 'Sptbn2', 'AI837181', 'Cd248', 'Ovol1', 'Zdhhc24', 'Catsper1', 'Rnaseh2c', 'Mrpl11', 'Ccs', 'Pacs1', 'Sf3b2', 'Drap1', 'Slc29a2', 'Klc2', 'Kcnk7', 'Gm19103', 'Mir6987', 'Gm7074', 'Ehbp1l1', 'Tsga10ip', 'Cnih2', 'Cst6', 'Rbm4b', 'Gm6293', 'Ctsf', 'Snx32', 'Brms1', 'LOC132660285', 'Sipa1', 'Banf1', 'Actn3', 'Bbs1', 'n-TSgct6', 'Npas4', '4930481A15Rik', 'Ap5b1', 'Rela', 'Fibp', 'Rbm14', 'Gm30581', 'Sart1', 'Rbm4'}
+chr6:119602434-120429919	{'Erc1', 'Gm15532', 'Mir706', 'Gm25327', 'Ccdc77', 'B4galnt3', 'Gm24592', 'Rad52', 'Ninj2', '3110021A11Rik', 'Wnk1', 'Kdm5a'}
+chr3:88556315-88715832	{'Rit1', 'Khdc4', '1500004A13Rik', 'Gm10253', 'Gm25820', 'Syt11', 'Rxfp4', 'Arhgef2', '5830417I10Rik'}
+chr19:60763265-60764032	{'Eif3a'}
+chr5:146833172-146834184	{'Gm10858'}
+chr1:55088413-55089051	set()
+chr16:33151144-33220020	{'1700007L15Rik', 'Zfp148'}
+chr4:149195312-149208837	{'Dffa'}

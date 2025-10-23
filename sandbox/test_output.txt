@@ -1,0 +1,167 @@
+LOCUS       NC_000071               2295 bp    DNA     linear   CON 07-FEB-2024
+DEFINITION  Mus musculus strain C57BL/6J chromosome 5, GRCm39.
+ACCESSION   NC_000071 REGION: 107904895..107907189
+VERSION     NC_000071.7
+DBLINK      BioProject: PRJNA169
+            Assembly: GCF_000001635.27
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2295)
+  AUTHORS   Church,D.M., Schneider,V.A., Graves,T., Auger,K., Cunningham,F.,
+            Bouk,N., Chen,H.C., Agarwala,R., McLaren,W.M., Ritchie,G.R.,
+            Albracht,D., Kremitzki,M., Rock,S., Kotkiewicz,H., Kremitzki,C.,
+            Wollam,A., Trani,L., Fulton,L., Fulton,R., Matthews,L.,
+            Whitehead,S., Chow,W., Torrance,J., Dunn,M., Harden,G.,
+            Threadgold,G., Wood,J., Collins,J., Heath,P., Griffiths,G.,
+            Pelan,S., Grafham,D., Eichler,E.E., Weinstock,G., Mardis,E.R.,
+            Wilson,R.K., Howe,K., Flicek,P. and Hubbard,T.
+  TITLE     Modernizing reference genome assemblies
+  JOURNAL   PLoS Biol. 9 (7), e1001091 (2011)
+   PUBMED   21750661
+REFERENCE   2  (bases 1 to 2295)
+  AUTHORS   Church,D.M., Goodstadt,L., Hillier,L.W., Zody,M.C., Goldstein,S.,
+            She,X., Bult,C.J., Agarwala,R., Cherry,J.L., DiCuccio,M.,
+            Hlavina,W., Kapustin,Y., Meric,P., Maglott,D., Birtle,Z.,
+            Marques,A.C., Graves,T., Zhou,S., Teague,B., Potamousis,K.,
+            Churas,C., Place,M., Herschleb,J., Runnheim,R., Forrest,D.,
+            Amos-Landgraf,J., Schwartz,D.C., Cheng,Z., Lindblad-Toh,K.,
+            Eichler,E.E. and Ponting,C.P.
+  CONSRTM   Mouse Genome Sequencing Consortium
+  TITLE     Lineage-specific biology revealed by a finished genome assembly of
+            the mouse
+  JOURNAL   PLoS Biol. 7 (5), e1000112 (2009)
+   PUBMED   19468303
+REFERENCE   3  (bases 1 to 2295)
+  CONSRTM   Genome Reference Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-2020) NCBI, NIH, Bethesda, MD 20892, USA
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000998.3.
+            
+            On Sep 22, 2020 this sequence version replaced NC_000071.6.
+            Assembly Name: GRCm39
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Mouse Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001635.27-RS_2024_02
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           RefSeqFE; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 02/01/2024
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2295
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /chromosome="5"
+     gene            complement(<1..>2295)
+                     /gene="Evi5"
+                     /gene_synonym="NB4S"
+                     /note="ecotropic viral integration site 5; Derived by
+                     automated computational analysis using gene prediction
+                     method: BestRefSeq,Gnomon."
+                     /db_xref="GeneID:14020"
+                     /db_xref="MGI:MGI:104736"
+     misc_feature    2032..>2295
+                     /standard_name="Gfi1 -35 kb enhancer"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="regulatory_interactions: Gfi1 | LOC108863616"
+                     /db_xref="GeneID:108805058"
+     regulatory      2032..>2295
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:20516218, PMID:24244860]"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:20516218]"
+                     /note="pGL2proGfi1-35kb construct fragment"
+                     /function="enhancer in transgenic E11.5 dorsal aorta and
+                     fetal liver, and in stably transfected MOLT-4 cells
+                     {active_cell/tissue: dorsal aorta(E11.5) | fetal
+                     liver(E11.5) | MOLT-4}"
+                     /db_xref="GeneID:108805058"
+     protein_bind    2258..>2295
+                     /experiment="EXISTENCE:chromatin immunoprecipitation
+                     evidence [ECO:0000226][PMID:20516218]"
+                     /note="-35 kb enhancer region spanning two Runx1 motifs"
+                     /bound_moiety="runt related transcription factor 1"
+                     /function="binds Runx1 in HPC-7 hematopoietic precursor
+                     cells {active_cell/tissue: HPC-7}"
+                     /db_xref="GeneID:108805058"
+     protein_bind    2260..>2295
+                     /experiment="EXISTENCE:chromatin immunoprecipitation
+                     evidence [ECO:0000226][PMID:20516218, PMID:19346495]"
+                     /note="-35 kb enhancer region spanning three Scl/Tal1
+                     motifs"
+                     /bound_moiety="TAL bHLH transcription factor 1, erythroid
+                     differentiation factor"
+                     /function="binds Scl/Tal1 in HPC-7 hematopoietic precursor
+                     cells {active_cell/tissue: HPC-7}"
+                     /db_xref="GeneID:108805058"
+     protein_bind    2278..>2295
+                     /experiment="EXISTENCE:chromatin immunoprecipitation
+                     evidence [ECO:0000226][PMID:20516218]"
+                     /note="-35 kb enhancer region spanning three GATA motifs"
+                     /bound_moiety="GATA binding protein 2"
+                     /function="binds Gata2 in HPC-7 hematopoietic precursor
+                     cells {active_cell/tissue: HPC-7}"
+                     /db_xref="GeneID:108805058"
+ORIGIN      
+        1 atccttggca ttgtctgaag tgcctttctg gtgtgacttc aatttccacc actaattcca
+       61 acaaggcaac tgagggacaa gaaatttgcc catactaaca cagctaggga gtcacctggc
+      121 agtgttgcaa gtcctctact aatctgttta ggcagccaca aacaacctaa ctagccacaa
+      181 ataaaactga acgagggatg gtaaacaatg ttaacagaaa agcaagatcc aagtctgagt
+      241 ctgacacatt acaactgctc attgctaatt gtcatggtct cttttagtag gtcagtgaca
+      301 gtcgtcttga acttttcaag gtaccagaac actcaagata cttgatatag ttatgaatac
+      361 attctcaaaa gatgtacaaa taatatctat gtacaaagta cctttaaaca ctttaataag
+      421 ttccattcat acaactctgg gaattttcaa aaggcaaata atatcaattt tcaaatatgg
+      481 ctattgagtc agtagatgta ctggcacata cactataatc caagaacttg ggagggagaa
+      541 tttaaattag aggccagcct tggttacata gtgaaacttt gtctcaaaat aaaggaaaaa
+      601 aaagcaggta ggggtacaga gacacagcag cccacatgtt tgaacaggtt ttctcatggc
+      661 catagagctg cacaaagatc tccacacaca atctgaggat actgtcatca cccaaataaa
+      721 cacacacact gcatactctc agctgccatc catgccctgg ctgcctgcca ccttctcctc
+      781 aactccaggt aaccactaat ctgtggctgt ctctacagat cttcctattc tgtgcttctt
+      841 atgtaagtgg catcactgag tgtgtgtggc cctctgtgac tgagttctta cactctggtc
+      901 tgtgctacag tgcacatcag tattatattc ttctgttacc tagccccttc cattgtatga
+      961 catgctgcac ctctccactt atcagctgac agatatctgg actggtttta ttttctgggt
+     1021 actgcaaaaa attgttataa atattcatgc acatgtctca gtgtagacat ttcatttttc
+     1081 ttgggtataa agacaaaagt ggaacttcca ggcaagatgg taagtatggt tagcaatttg
+     1141 agaaaatgaa gcattatctt ccagtatttg tatcattttc tcttcccact taccatgtac
+     1201 agagttcaga tttctccaca tctttgtcaa ttttaattat atccttatat gttcctggtt
+     1261 agtataaaac agaaacttac tgtagttttg atttgcattt ctttgatggt taatgatgct
+     1321 gaactttttt ttcttgtggt tattggccat ttgtagatta ttttagcaaa tactctactg
+     1381 aagtattttt ttttagggga agggagtcga gacagagttt ctctgtgtag ctctagctat
+     1441 tctagaactc actatgttga ccagttggcc tcacactcaa agagctccat ctgcctctga
+     1501 ctcctgagct agcgctgggt taaagtgtga accaccaccg cccaactgat atccttcact
+     1561 tgcttataat aaatgaatta ttcatctttt tatactgaaa ctgaaagctt ttgtgtgtgt
+     1621 gtatgtatgt gtgtgtgtgt gtatatatat atatatatat tttttttttt tttttttttt
+     1681 tttgggttgg ttagttggtt ttttgagaca gggtttctct gagtagccct ggctgtcctg
+     1741 gaactcactc tgtagaccag gctggcctca aacttgtgta tgattcaaaa agagatactg
+     1801 acaggctaaa aataagtaat tgtgtacttg gaaaaaaatt tctaactgat aaaaaaatcc
+     1861 ctaacccatt atataatcct tctacaagca gttttttcta caataaaaaa taaatgattg
+     1921 ggatgtaaag taaataaaca agttaatgca tgaatgaaaa aaaatcattc gaaaagaaaa
+     1981 ataagtgatg gctacctcct tcagcttcac ttgaaacaga aaaacatgct acactagaac
+     2041 cgagtgctgg aggctgagga gctgagggtg aaggaggccc atgaatgact tgcagtgctc
+     2101 atttattttc aggcgctgca gctcctgata acataacttt aaaactcgta gcacccctcc
+     2161 ccctggccag ggagcacaga cccctggcta ggtcagcatc ctactcctct ttgtcttgag
+     2221 acgtgcaggc tgctcagtga agattgggta cttgcaaacc acatgacctc atgaatgcta
+     2281 tcttatcacc tcaca
+//
+

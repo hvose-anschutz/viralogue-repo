@@ -1,0 +1,14 @@
+/home/hvose/sandbox/hello_worlds/hello_world/bin/Debug/net9.0/hello_world
+/home/hvose/sandbox/hello_worlds/hello_world/bin/Debug/net9.0/hello_world.deps.json
+/home/hvose/sandbox/hello_worlds/hello_world/bin/Debug/net9.0/hello_world.runtimeconfig.json
+/home/hvose/sandbox/hello_worlds/hello_world/bin/Debug/net9.0/hello_world.dll
+/home/hvose/sandbox/hello_worlds/hello_world/bin/Debug/net9.0/hello_world.pdb
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.AssemblyInfoInputs.cache
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.AssemblyInfo.cs
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.csproj.CoreCompileInputs.cache
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.dll
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/refint/hello_world.dll
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.pdb
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/hello_world.genruntimeconfig.cache
+/home/hvose/sandbox/hello_worlds/hello_world/obj/Debug/net9.0/ref/hello_world.dll

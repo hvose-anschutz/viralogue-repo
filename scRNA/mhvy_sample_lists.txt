@@ -1,0 +1,9 @@
+mhvy_sample1_L001.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_1/MHVY_Colon_5dpi_1_GEX_S4_L001_R1_001.fastq
+mhvy_sample1_L002.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_1/MHVY_Colon_5dpi_1_GEX_S4_L002_R1_001.fastq
+mhvy_sample1_L003.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_1/MHVY_Colon_5dpi_1_GEX_S4_L003_R1_001.fastq
+mhvy_sample2_L001.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_2/MHVY_Colon_5dpi_1_GEX_S5_L001_R1_001.fastq
+mhvy_sample2_L002.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_2/MHVY_Colon_5dpi_1_GEX_S5_L002_R1_001.fastq
+mhvy_sample2_L003.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_2/MHVY_Colon_5dpi_1_GEX_S5_L003_R1_001.fastq
+mhvy_sample3_L001.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_3/MHVY_Colon_5dpi_1_GEX_S6_L001_R1_001.fastq
+mhvy_sample3_L002.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_3/MHVY_Colon_5dpi_1_GEX_S6_L002_R1_001.fastq
+mhvy_sample3_L003.txt   /scratch/alpine/hvose@xsede.org/Krishnamurthy_07152025_GEX/MHVY_Colon_5dpi_3/MHVY_Colon_5dpi_1_GEX_S6_L003_R1_001.fastq

@@ -1,0 +1,17 @@
+chr14:50807558-50807579	set()
+chr12:69159590-69361318	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159488-69361187	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159474-69361185	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159474-69361187	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159603-69361318	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159590-69361303	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159590-69361289	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:69159592-69361303	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}
+chr12:54729737-54734554	{'Eapp'}
+chr12:54714383-54719192	{'Eapp'}
+chr12:54714353-54734554	{'Eapp', 'Gm36262'}
+chr12:54714383-54738488	{'Eapp', 'Gm20947', 'Gm36262'}
+chr12:54710443-54734554	{'Eapp', 'Gm40884', 'Gm36262'}
+chr9:120131166-120131400	set()
+chr2:98666887-98667138	set()
+chr12:69159459-69361176	{'Klhdc2', 'Mgat2', 'Gm7868', 'Klhdc1', 'Lrr1', 'Gm24499', 'Rps29', 'Nemf', '9330151L19Rik', 'Rpl36al', 'Pole2', 'Rn7s1', 'Gm31447', 'Dnaaf2', 'Gm15571'}

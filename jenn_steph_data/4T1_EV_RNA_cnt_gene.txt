@@ -1,0 +1,44 @@
+chr14:50807558-50807578	set()
+chr3:96360081-96460152	{'Gm40099', 'BC107364', 'n-TQctg3', 'Gm25890', 'Gm22614', 'n-THgtg9', 'n-THgtg1', 'n-TNgtt12', 'n-TKctt16', 'n-THgtg8', 'n-TGtcc7', 'Gm40100', 'Hjv', 'n-TNgtt13', 'n-TEctc13', 'Rnu1b6', 'Gm10685', 'Gm9207'}
+chr12:69159590-69361317	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159474-69361184	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159592-69361302	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159488-69361186	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159590-69361288	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159474-69361186	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159590-69361302	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159459-69361175	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:54729737-54734553	{'Eapp'}
+chr12:54714353-54734553	{'Gm36262', 'Eapp'}
+chr14:50807565-50807586	set()
+chr12:54710443-54734553	{'Gm36262', 'Gm40884', 'Eapp'}
+chr12:54714383-54719191	{'Eapp'}
+chr12:54714383-54738487	{'Gm36262', 'Gm20947', 'Eapp'}
+chr12:69159592-69361317	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr3:96328462-96374057	{'Gm40099', 'n-TKctt15', 'n-TGccc6', 'BC107364', 'Gm10685', 'n-THgtg9', 'n-THgtg1', 'n-TNgtt11', 'n-TNgtt13', 'Gm57479', 'Gm26232', 'n-THgtg2', 'Gm24136', 'Rnu1b6', 'n-THgtg7', 'Gm9207'}
+chr9:120131166-120131399	set()
+chr12:69159603-69361317	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159459-69361186	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr12:69159588-69361312	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr3:96450616-96460056	set()
+chr3:96450616-96486586	{'Txnip', 'Polr3gl', 'Gm15441'}
+chr12:54714383-54734583	{'Gm36262', 'Eapp'}
+chr9:61913522-61913887	{'Paqr5'}
+chr15:78926805-78927969	{'Galr3'}
+chr8:70895508-70895599	set()
+chr15:78928050-78929632	set()
+chr12:69159488-69361210	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr9:120130364-120130767	set()
+chr12:69159566-69361288	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr11:98029886-98030270	{'Fbxl20'}
+chr1:86356742-86356956	set()
+chr2:32962673-32962984	{'Garnl3'}
+chr9:61913963-61914356	{'Paqr5'}
+chr7:45126238-45126477	{'Dhdh'}
+chr9:120127831-120128456	set()
+chr4:46468788-46469882	{'Anp32b'}
+chr15:78929805-78929997	{'Gm3924'}
+chr3:96450579-96460019	set()
+chr13:90923747-90924325	set()
+chr12:69159459-69361173	{'Mgat2', 'Gm24499', 'Rps29', 'Rn7s1', 'Dnaaf2', 'Gm31447', '9330151L19Rik', 'Rpl36al', 'Lrr1', 'Pole2', 'Gm15571', 'Klhdc1', 'Klhdc2', 'Nemf', 'Gm7868'}
+chr3:130726960-130728747	set()
