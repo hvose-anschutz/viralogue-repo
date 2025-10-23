@@ -15,7 +15,7 @@ import sys
 # PUT ALL VARIABLES FROM YOUR DATASET HERE! THERE IS NO NEED TO EDIT THE CODE BELOW #
 
 #Your Filename
-filename = "KN_results.csv"
+filename = "datasets/KN_results.csv"
 format_based_on_filename = False
 alternate_title = "CCR3_plot"
 

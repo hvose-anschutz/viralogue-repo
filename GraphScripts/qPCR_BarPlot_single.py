@@ -6,7 +6,6 @@
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy import stats
 import numpy as np
 import sys
 import os
@@ -16,7 +15,7 @@ import re
 # PUT ALL VARIABLES FROM YOUR DATASET HERE! THERE IS NO NEED TO EDIT THE CODE BELOW #
 
 #Your Filename
-filename = "KN_results.csv"
+filename = "datasets/KN_results.csv"
 format_based_on_filename = False
 alternate_title = "CCR3_plot"
 
