@@ -5,7 +5,6 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import re
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
@@ -64,7 +63,6 @@ color_range = gs.get_default_wheel()
 # plt.savefig("pca_kasey_test.jpg", dpi=300,format='jpg')
 
 g = sns.scatterplot(data=final_df, x="PCA_1", y="PCA_2",hue='TumorType',palette=color_range)
-
 
 fig = g.figure
 
