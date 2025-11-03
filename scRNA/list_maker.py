@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-"""Creates a list from a tab-delimited file given an index to create from. Must be run with Python 3.10+"""
+"""Creates a list from a tab-delimited file given 
+an index to create from. Must be run with Python 3.10+"""
 
 import re
 
@@ -15,7 +16,7 @@ MY_READS_L1 = []
 MY_READS_L2 = []
 MY_READS_L3 = []
 
-with open("mhvy_infected_blastn_3.out","r") as f:
+with open("mhvy_infected_blastn_3.out","r",encoding="utf-8") as f:
     for match in f.readlines():
         match_info = match.strip().split()
         lane = re.search(r"T3:(\d):",match_info[1])
