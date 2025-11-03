@@ -40,7 +40,7 @@ for idx, values in enumerate(ALL_DATA):
     XVALS.append(values[0])
     YDATA.append(values[1])
 
-popt, pcov = curve_fit(func,XDATA,YDATA)
+popt, pcov, *remaining_args = curve_fit(func,XDATA,YDATA)
 my_inflection = e_inflection_finder(popt)
 #print(my_inflection)
 last_num = round(my_inflection)
