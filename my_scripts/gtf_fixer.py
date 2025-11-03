@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
-with open("Mmus38.gtf.txt", "r") as f, open("Mmus38_ERV.gtf","w") as w:
+"""Fixes gtf files by adding the chr prefix for STAR."""
+
+with open("Mmus38.gtf.txt",
+          "r",encoding="utf-8") as f, open("Mmus38_ERV.gtf",
+                                           "w",encoding="utf-8") as w:
     for line in f.readlines():
         good_stuff = []
         split_line = line.split("\t")
