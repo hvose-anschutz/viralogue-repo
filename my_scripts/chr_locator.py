@@ -29,7 +29,7 @@ PARAMS = {
 
 location_genes = {}
 
-with open("4T1_CSO36658_SJs.txt","r") as f:
+with open("4T1_CSO36658_SJs.txt","r",encoding="utf-8") as f:
     for idx, line in enumerate(f.readlines()):
         location, count = line.strip().split("\t")
         components = re.search(r"(chr\d+|chr[XYM]):(\d+)-(\d+)",location)
@@ -37,7 +37,7 @@ with open("4T1_CSO36658_SJs.txt","r") as f:
         PARAMS['seq_start'] = int(components.group(2))
         PARAMS['seq_stop'] = int(components.group(3))
 
-        response = requests.get(URL,PARAMS)
+        response = requests.get(URL,PARAMS,timeout=10)
 
         with open("test_output.txt","wb") as f:
             f.write(response.content)
@@ -45,7 +45,7 @@ with open("4T1_CSO36658_SJs.txt","r") as f:
 
         curr_genes = set()
         new_gene = False
-        with open("test_output.txt","r") as g:
+        with open("test_output.txt","r",encoding="utf-8") as g:
             for b_line in g.readlines():
                 gene_check = re.search(r"(?<!/)gene",b_line)
                 if gene_check is not None:
@@ -61,7 +61,7 @@ with open("4T1_CSO36658_SJs.txt","r") as f:
         location_genes[location] = curr_genes
         print("processed index " + str(idx))
 
-    with open("4T1_CSO36558_gene_cnts.txt","w") as h:
+    with open("4T1_CSO36558_gene_cnts.txt","w",encoding="utf-8") as h:
         for keys,values in location_genes.items():
             h.write(keys + "\t" + str(values) + "\n")
     h.close()

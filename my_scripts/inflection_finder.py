@@ -1,4 +1,4 @@
-#!/usr/bin/env 
+#!/usr/bin/env
 
 """Calculates the inflection point from a list of splice
 junctions to determine statistically significant sites.
@@ -21,7 +21,7 @@ def func(x,a,b,c):
 def e_inflection_finder(params):
     """finds the point where the derivative of the 
     negative exponential function is equal to -1"""
-    return (np.log(1/(params[1]*params[0])))/(-1*params[1]) 
+    return (np.log(1/(params[1]*params[0])))/(-1*params[1])
 
 #READ IN DATA
 with open("67NR_CSO36658_SJs.txt",
@@ -33,8 +33,7 @@ with open("67NR_CSO36658_SJs.txt",
 f.close()
 
 if SORT_LIST:
-    sorted_data = ALL_DATA.sort(key=lambda x: x[1], reverse=True)
-    ALL_DATA = sorted_data
+    ALL_DATA.sort(key=lambda x: x[1], reverse=True)
 
 for idx, values in enumerate(ALL_DATA):
     XDATA.append(idx+1)

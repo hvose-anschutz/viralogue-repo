@@ -7,31 +7,31 @@ with the assumption that the byte offset is equal across both files."""
 import re
 
 BC_INTEREST = "id"
-FOUND_IT = False
+found_it = False
 MATCHING_READS = {}
-R1_LINES = []
+r1_lines = []
 BYTE_OFFSETS = []
 
 with open("test.fastq","r",encoding="utf-8") as f:
     new_key = []
     for idx, my_id in enumerate(f.readlines()):
-        if (my_id[0] == "@") and (not FOUND_IT):
+        if (my_id[0] == "@") and (not found_it):
             if re.search(BC_INTEREST,id) is not None:
                 BYTE_OFFSETS.append(idx)
-                FOUND_IT = True
+                found_it = True
                 new_key = my_id.strip()
-        elif (FOUND_IT) and (len(R1_LINES) < 3):
-            R1_LINES.append(my_id.strip())
-        elif len(R1_LINES) >= 3:
-            FOUND_IT = False
-            MATCHING_READS[new_key] = R1_LINES
-            R1_LINES = []
+        elif (found_it) and (len(r1_lines) < 3):
+            r1_lines.append(my_id.strip())
+        elif len(r1_lines) >= 3:
+            found_it = False
+            MATCHING_READS[new_key] = r1_lines
+            r1_lines = []
 
 f.close()
 
 with open("test2.fastq","r",encoding="utf-8") as g:
     for new_start in BYTE_OFFSETS:
-        #374 is the byte offset for each four line set: 
+        #374 is the byte offset for each four line set:
         #68 + 152 + 2 + 152
         g.seek((new_start/4)*374)
         for idx, info in enumerate(g.readlines()):
