@@ -5,7 +5,6 @@ The second file provided will always be faster than the first,
 with the assumption that the byte offset is equal across both files."""
 
 import re
-import sys
 
 BC_INTEREST = "id"
 FOUND_IT = False
@@ -14,6 +13,7 @@ R1_LINES = []
 BYTE_OFFSETS = []
 
 with open("test.fastq","r",encoding="utf-8") as f:
+    new_key = []
     for idx, my_id in enumerate(f.readlines()):
         if (my_id[0] == "@") and (not FOUND_IT):
             if re.search(BC_INTEREST,id) is not None:
