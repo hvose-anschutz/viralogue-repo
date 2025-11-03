@@ -9,11 +9,11 @@ import re
 #######################################################
 #            CLASS / FUNCTION DEFINITIONS             #
 #######################################################
-def write_out(filename: str,
+def write_out(my_filename: str,
               item_list: list,
               delimiter: str="\n"):
     """writes out a provided list to a specified file."""
-    with open(filename,"w",encoding="utf-8") as f:
+    with open(my_filename,"w",encoding="utf-8") as f:
         for item in item_list:
             f.write(item + delimiter)
         f.close()
