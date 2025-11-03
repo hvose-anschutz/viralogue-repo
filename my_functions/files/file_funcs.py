@@ -16,7 +16,8 @@ def tab_separator(my_file: str,
     f.close()
     return return_list
 
-def write_dict_to_file(my_filename: str, my_dict: dict, delimiter: str="\t", 
+def write_dict_to_file(my_filename: str, my_dict: dict, 
+                       delimiter: str="\t", 
                        keep_flags: bool=False):
     """Outputs the contents of a dictionary to a specified file.\n
     my_filename: the desired filename (if no path specified, it will output to the 
@@ -29,6 +30,7 @@ def write_dict_to_file(my_filename: str, my_dict: dict, delimiter: str="\t",
                 f.write(key + delimiter + str(value) + "\n")
         else:
             for key,value in my_dict.items():
-                print("key: " + key + delimiter + "value" + str(value) + "\n")
+                print("key: " + key + delimiter + "value: " + str(value) + "\n")
                 
                            
+
