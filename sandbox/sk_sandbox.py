@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
+
+"""Generates a PCA visualization given a dictionary """
+
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import seaborn as sns
-import scipy.sparse as sp
 import re
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import confusion_matrix, classification_report
-import my_functions.files.graph_settings as gs
 
-def set_value(row_number, assigned_value):
-    return assigned_value[row_number]
+import my_functions.files.graph_settings as gs
 
 my_tumor_data = {}
 
@@ -25,7 +21,16 @@ mydf = df.T
 x = mydf.drop('TumorType',axis=1)
 y = pd.DataFrame(data=mydf['TumorType'])
 
-y['TumorType'] = y['TumorType'].map({1.0:"Cut_nod",2.0:"Cut_SS",3.0:"Acral",4.0:"Subungual",5.0:"Muc_ano",6.0:"Muc_nasal",7.0:"Muc_vul",8.0:"Unknown",9.0:"Other", 10.0:"Unde"})
+y['TumorType'] = y['TumorType'].map({1.0:"Cut_nod",
+                                     2.0:"Cut_SS",
+                                     3.0:"Acral",
+                                     4.0:"Subungual",
+                                     5.0:"Muc_ano",
+                                     6.0:"Muc_nasal",
+                                     7.0:"Muc_vul",
+                                     8.0:"Unknown",
+                                     9.0:"Other",
+                                     10.0:"Unde"})
 
 print(y.head())
 
@@ -59,6 +64,7 @@ color_range = gs.get_default_wheel()
 # plt.savefig("pca_kasey_test.jpg", dpi=300,format='jpg')
 
 g = sns.scatterplot(data=final_df, x="PCA_1", y="PCA_2",hue='TumorType',palette=color_range)
+
 
 fig = g.figure
 
