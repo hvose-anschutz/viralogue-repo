@@ -32,7 +32,7 @@ with open("67NR_CSO36658_SJs.txt",
 
 f.close()
 
-if not SORT_LIST:
+if SORT_LIST:
     sorted_data = ALL_DATA.sort(key=lambda x: x[1], reverse=True)
     ALL_DATA = sorted_data
 
