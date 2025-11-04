@@ -100,7 +100,7 @@ def get_file_from_cmd(position: int=1):
 
 def my_output_file(filename: str,
                    plot_type: str ="Plot",
-                   extension: str="svg"):
+                   extension: str="svg") -> str | None:
     """Creates a regex to rename the output file based on the original 
     .csv file. The plot type adds the name of the plot to the filename, 
     and the extension specifies what file format to save (svg, png, jpeg,
@@ -113,6 +113,8 @@ def my_output_file(filename: str,
                               just_name[::-1][0],
                               1)
             return os.getcwd() + "/generated_images/" + new_name
+        else:
+            return None
     except ValueError as e:
         print(e)
-        return sys.exit(1)
+        sys.exit(1)
