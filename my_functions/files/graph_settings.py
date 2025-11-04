@@ -113,8 +113,7 @@ def my_output_file(filename: str,
                               just_name[::-1][0],
                               1)
             return os.getcwd() + "/generated_images/" + new_name
-        else:
-            return None
+        return None
     except ValueError as e:
         print(e)
         sys.exit(1)
