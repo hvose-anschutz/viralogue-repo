@@ -52,10 +52,10 @@ new_r1_info = subprocess.run(['grep','-B','1','-A','2','-E',
                               check=False)
 new_r1_lines = new_r1_info.stdout.split("\n")
 
-with open(new_r1_file,"w",encoding="utf-8") as f:
+with open(new_r1_file,"w",encoding="utf-8") as h:
     for items in new_r1_lines:
-        f.write(items + "\n")
-f.close()
+        h.write(items + "\n")
+h.close()
 
 r1_ids = []
 
@@ -81,3 +81,4 @@ with open(new_r2_file,"w",encoding="utf-8") as g:
     for items2 in new_r2_lines:
         g.write(items2 + "\n")
 g.close()
+
