@@ -4,12 +4,9 @@
 
 import colorsys
 import random
-import re
-import sys
 import warnings
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 warnings.filterwarnings("ignore")
 
@@ -50,9 +47,9 @@ def pivot_barplot(my_df: pd.DataFrame, pattern: str="family"):
 
         final_df = pd.DataFrame([new_fam_dict])
 
-    df_pivot = final_df.pivot_table(index="Name",values=final_df.keys(),aggfunc=sum)
+    final_df_pivot = final_df.pivot_table(index="Name",values=final_df.keys(),aggfunc=sum)
 
-    return df_pivot
+    return final_df_pivot
 
 def gradient_hex(start_hex: str, end_hex: str, steps: int) -> list[str]:
     """
@@ -103,24 +100,24 @@ def distinct_colors(n: int, lightness: float = 0.5, saturation: float = 0.7) -> 
 ###############################################################
 # CHANGE THIS CODE
 
-erv_list = "PRJNA1238225_allspecies_ERV_1.txt"
-outfile = "L1_stacked_barplot.svg"
-save_figure = False
-my_pattern = "ERV"
+ERV_LIST = "PRJNA1238225_allspecies_ERV_1.txt"
+OUTFILE = "L1_stacked_barplot.svg"
+SAVE_FIGURE = False
+MY_PATTERN = "ERV"
 ###############################################################
 
 if __name__ == "__main__":
 
-    df = pd.read_table(erv_list,names=["ERV","count","ERV Family"])
+    df = pd.read_table(ERV_LIST,names=["ERV","count","ERV Family"])
 
     print(df.head())
-    
-    df_pivot = pivot_barplot(df,pattern=my_pattern)
+
+    df_pivot = pivot_barplot(df,pattern=MY_PATTERN)
 
     # big_gradient = distinct_colors(df_pivot.shape[1])
     # random.shuffle(big_gradient)
     #big_gradient = sns.color_palette("husl", df_pivot.shape[1]).as_hex()
-    if my_pattern != "family":
+    if MY_PATTERN != "family":
         step_num = int(df_pivot.shape[1]/4)
         big_gradient_1 = gradient_hex("#365E19","#C7462C",step_num)
         big_gradient_2 = gradient_hex("#2E5283","#EEA125",step_num)
@@ -141,6 +138,6 @@ if __name__ == "__main__":
     plt.legend(bbox_to_anchor=(1.04, 1), loc="upper left",ncol=6)
     plt.ylabel('Percentage of L1')
     plt.xticks(rotation=0)
-    if save_figure:
-        plt.savefig(outfile, bbox_inches='tight')
+    if SAVE_FIGURE:
+        plt.savefig(OUTFILE, bbox_inches='tight')
     plt.show()
