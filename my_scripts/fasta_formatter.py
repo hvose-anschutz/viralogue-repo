@@ -4,7 +4,6 @@
 
 import sys
 
-have_title = False
 my_title = ""
 curr_seq = ""
 final_list = {}
@@ -24,7 +23,7 @@ with open(sys.argv[1],"r",encoding="utf-8") as g:
 g.close()
 final_list[my_title] = curr_seq
 
-with open("Hsap38_formatted.fa","w") as h:
+with open("Hsap38_formatted.fa","w",encoding="utf-8") as h:
     for key, value in final_list.items():
         h.write(f"{key}{value}\n")
 h.close()
