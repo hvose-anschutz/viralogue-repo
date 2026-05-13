@@ -2,7 +2,8 @@
 
 """Turns a list of sequences in txt format into a fasta file format."""
 
-# with open("all_pol_fastas.txt","r",encoding="utf-8") as f, open("all_pol_fastas.fa","w",encoding="utf-8") as o:
+# with open("all_pol_fastas.txt","r",encoding="utf-8") as f,
+# open("all_pol_fastas.fa","w",encoding="utf-8") as o:
 #     for line in f.readlines():
 #         my_line = line.strip().split()
 #         o.write(f">{my_line[0]}_{my_line[1]}\n")
