@@ -41,7 +41,7 @@ with open("all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
             'rettype':'fasta',
             'retmode':'text',
             'seq_start':str(int(start)-3303),
-            'seq_stop':stop,
+            'seq_stop':str(int(stop)+208),
             'strand':strand,
             'api_key':'4067db555f3f041968fa45e511846737ca08',
             'complexity':3
