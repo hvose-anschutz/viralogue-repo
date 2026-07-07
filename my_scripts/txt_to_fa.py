@@ -2,9 +2,11 @@
 
 """Turns a list of sequences in txt format into a fasta file format."""
 
+import sys
+
 JUST_SEQS = True
 
-with open("all_L1HS_RT_extended_seqs.txt","r",encoding="utf-8") as f, open("all_L1HS_RT_full_seqs.fa","w",encoding="utf-8") as o:
+with open(sys.argv[1],"r",encoding="utf-8") as f, open("all_L1HS_RT_full_seqs.fa","w",encoding="utf-8") as o:
     for line in f.readlines():
         my_line = line.strip().split()
         o.write(f">{my_line[0]}\n")
