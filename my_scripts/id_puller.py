@@ -10,14 +10,11 @@ with open("test2.fastq",
     for line in f:
         print(line[0])
         if line[0] == "@":
-            print('match')
             barcode = True
         elif barcode:
             my_barcodes.append(line[0:16])
             barcode = False
 f.close()
-
-print(my_barcodes)
 
 with open("/home/hvose/sandbox/test_barcodes.txt",
           "w",encoding="utf-8") as g:
