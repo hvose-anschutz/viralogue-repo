@@ -4,7 +4,6 @@
 
 import re
 import sys
-import txt_to_fa
 
 SINGLE_LINE = False
 
@@ -76,7 +75,7 @@ def protein_checker(seq:str,
 
     if specify_orf is not None:
         return [translator(seq.upper(),specify_orf,started,stop)], [specify_orf]
-    
+
     for orf in range(0,3):
         forward = translator(seq.upper(),orf,started,stop)
         backward = translator(seq.upper()[::-1],orf,started,stop)
