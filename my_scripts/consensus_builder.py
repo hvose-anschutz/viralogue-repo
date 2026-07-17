@@ -12,16 +12,16 @@ ANCHOR = True
 #motif_file = "palm_domains/shorter_motifs/MMERV_shorter_motifs.txt"
 motif_file = sys.argv[1]
 
-if ANCHOR: 
+if ANCHOR:
     valid_dd_patterns = ["GATGAT", "GATGAC", "GACGAT", "GACGAC"]
 
-    valid_dd_seq="|".join(valid_dd_patterns)
+    VALID_SEQ="|".join(valid_dd_patterns)
 
     FRONT_HALVES = []
     BACK_HALVES = []
-    motif = "MMTV"
+    MOTIF = "MMTV"
 
-    multi_dd = re.compile(valid_dd_seq)
+    multi_dd = re.compile(VALID_SEQ)
 
     with open(motif_file,"r",encoding="utf-8") as f:
         for line in f.readlines():
@@ -95,5 +95,4 @@ if ANCHOR:
 
     final_seq = f_con_seq[::-1] + b_con_seq
 
-    print(f"CONSENSUS SEQ FOR {motif}: {final_seq}")
-
+    print(f"CONSENSUS SEQ FOR {MOTIF}: {final_seq}")

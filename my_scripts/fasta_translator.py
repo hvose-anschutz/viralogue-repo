@@ -5,7 +5,6 @@
 import re
 import sys
 
-#my_seq = 'gcaaaatcaccagctaacatcataatgacaggatcaaattcacacataacaatattaactttaaatataaatggactaaattctgcaattaaaagacacagacgggcaagttggataaagagccaagacccatcagtgtgctgtattcaggaaacccatctcacgtgcagagacacacacaggctcaaaataaaaggatggaggaagatctaccaagccaatggaaaacaaaaaaaggcaggggttgcaatcctagtctctgataaaacagactttaaaccaacaaagatcaaaagagacaaagaaggccattacataatggtaaagggatcaattcaacaagaggagctaactatcctaaatatttatgcacccaatacaggagcacccagattcataaagcaagtcctgagtgacctacaaagagacttagactcccacacattaataatgggagactttaacaccccactgtcaacattagacagatcaacgagacagaaagtcaacaaggatacccaggaattgaactcagctctgcaccaagcagacctaatagacatctacagaactctccaccccaaatcaacagaatatacatttttttcagcaccacaccacacctattccaaaattgaccacatagttggaagtaaagctctcctcagcaaatgtaaaagaacagaaattataacaaactatctctcagaccacagtgcaatcaaactagaactcaggattaagaatctcactcaaagccgctcaactacatggaaactgaacaacctgctcctgaatgactactgggtacataacgaaatgaaggcagaaataaagatgttctttgaaaccaacgagaacaaagacaccacataccagaatctctgggacgcattcaaagcagtgtgtagagggaaatttatagcactaaatgcctacaagagaaagcaggaaagatccaaaattgacaccctaacatcacaattaaaagaactagaaaagcaagagcaaacacattcaaaagctagcagaaggcaagaaataactaaaatcagagcagaactgaaggaaatagagacacaaaaaacccttcaaaaaatcaatgaatccaggagctggttttttgaaaggatcaacaaaattgatagaccgctagcaagactaataaagaaaaaaagagagaagaatcaaatagacacaataaaaaatgataaaggggatatcaccaccgatcccacagaaatacaaactaccatcagagaatactacaaacacctctacgcaaataaactagaaaatctagaagaaatggatacattcctcgacacatacactctcccaagactaaaccaggaagaagttgaatctctgaatagaccaataacaggctctgaaattgtggcaataatcaatagtttaccaaccaaaaagagtccaggaccagatggattcacagccgaattctaccagaggtacaaggaggaactggtaccattccttctgaaactattccaatcaatagaaaaagagggaatcctccctaactcattttatgaggccagcatcattctgataccaaagcagggcagagacacaaccaaaaaagagaattttagaccaatatccttgatgaacattgatgcaaaaatcctcaataaaatactggcaaaccaaatccagcagcacatcaaaaagcttatccaccatgatcaagtgggcttcatccctgggatgcaaggctggttcaatatacgcaaatcaataaatgtaatccagcatataaacagagccaaagacaaaaaccacatgattatctcaatagatgcagaaaaagcctttgacaaaattcaacaacccttcatgctaaaaactctcaataaattaggtattgatgggacgtatttcaaaataataagagctatctatgacaaacccacagccaatatcatactgaatgggcaaaaactggaagcattccctttgaaaaccggcacaagacaagaatgccctctctcaccgctcctattcaacatagtgttggaagttctggccagggcaatcaggcaggagaaggaaataaagggtattcaattaggaaaagaggaagtcaaattgtccctgtttgcagacaacatgattgtttatctagaaaaccccatcgtctcagcccaaaatctccttaagctgataagcaacttcagcaaagtctcaggctacaaaatcaatgtacaaaaatcacaagcattcttatacaccaacaacagacaaacagagagccaaatcatgagtgaactcccattcacaattgcttcaaagagaataaaatacctaggaatcccacttacaagggatgtgaaggacctcttcaaggagaactacaaaccactgctcaaggaaataaaagaggacacaaacaaatggaagaacattccatgctcatgggtaggaagaatcaatatcgtgaaaatggccatactgcccaaggtaatttacagattcaatgccatccccatcaagctaccaatgactttcttcacagaattggaaaaaactactttaaagttcatatggaaccaaaaaagagcccgcatcgccaagtcaatcctaagccaaaagaacaaagctggaggcatcacactacctgacttcaaactatactacaaggctacagtaaccaaaacagcatggtactggtaccaaaacagagatatagatcaatggaacagaacagagccctcagaaataatgccacatatctacaactatctgatctttgacaaacctgagaaaaacaagcaatggggaaaggattccctatttaataaatggtgctgggaaaactggctagccatatgtagaaagctgaaactggatcccttccttacaccttatacaaaaatcaattcaagatggattaaagatttaaacgttagacctaaaaccataaaaaccctagaagaaaacctaggcattaccattcaggacataggcgtgggcaaggacttcatgtccaaaacaccaaaagcaatggcaacaaaagccaaaattgacaaatgggatctaattaaactaaagagcttctgcacagcaaaagaaactaccatcagagtgaacaggcaacctacaacatgggagaaaattttcgcaacctactcatctgacaaagggctaatatccagaatctacaatgaactcaaacaaatttacaagaaaaaaacaaacaaccccatcaaaaagtgggcgaaggacatgaacagacacttctcaaaagaagacatttatgcagccaaaaaacacatgaagaaatgctcatcatcactggccatcagagaaatgcaaatcaaaaccactatgagatatcatctcacaccagttagaatggcaatcattaaaaagtcaggaaacaacaggtgctggagaggatgtggagaaataggaacacttttacactgttggtgggactgtaaactagttcaaccattgtggaagtcagtgtggcgattcctcagggatctagaactagaaataccatttgacccagccatcccattactgggtatatacccaaaggactataaatcatgctgctataaagacacatgcacacgtatgtttattgcggcactattcacaacagcaaagacttggaaccaacccaaatgtccaacaatgatagactggattaagaaaatgtggcacatatacaccatggaatactatgcagccataaaaaatgatgagttcatgtcctttgtagggacatggatgaaattggaaaccatcattctcagtaaactatcgcaagaacaaaaaaccaaacaccgcatattctcactcataggtgggaac'
 single_line = False
 
 codontab = {
@@ -33,124 +32,99 @@ codontab = {
     'GGA': 'G', 'GGC': 'G', 'GGG': 'G', 'GGT': 'G'    # Glycine
 }
 
-def protein_translator(seq:str,
-                       started:bool=True,
-                       speed:int=3,
-                       no_stop:bool=False,
-                       confirm_seq:str="",
-                       specify_orf:int|None=None):
+def translator(my_sequence:str,
+             orf:int,
+             started:bool,
+             stop:bool) -> str: 
+    """Translates a protein sequence.
+    - my_sequence: nucleotide sequence to be translated.
+    - orf: open reading frame to use.
+    - started: flag to use valid start codons.
+    - stop: flag to use stop codons"""
+    my_prot_seq = ""
+    for i in range(orf,len(my_sequence)-3,3):
+        curr_aa = codontab[my_sequence[i:i+3]]
+        if not started:
+            if curr_aa == "M":
+                my_prot_seq = my_prot_seq + curr_aa
+                started = True
+        my_prot_seq = my_prot_seq + curr_aa
+        if stop:
+            if curr_aa == '*':
+                return my_prot_seq
+                #print(f"added amino acid {curr_aa}")
+    return my_prot_seq
+
+def protein_checker(seq:str,
+                    started:bool=False,
+                    stop:bool=False,
+                    confirm_seq:str="",
+                    specify_orf:int|None=None) -> tuple[list,list]:
     """Translates a given DNA sequence into protein, and can find the relevant codon 
     given an AA position in the translated sequence.\n
     ARGUMENTS
     - seq: The sequence to be translated. Must be a string.
     - started: Tells function whether or not to look for a valid start codon. Default
     is True (no start codon required).
-    - speed: Dictates how quickly the program checks for amino acids. Default is
-    3, but can be changed if looking for valid open reading frames quickly."""
-    my_seq = seq.upper()
-
-    translator_list = []
+    - stop: determines if the program should look for a valid stop codon.
+    Default is False (will not look for valid stop codons.)
+    - confirm_seq: Regex sequence to check the amino acid sequence for.
+    - specify_orf: Use a specific orf instead of checking all orfs"""
     orf_list = []
-
-    #print(f"parameters are started = {started} and speed = {speed}")
-
-    my_prot_seq = ""
-
-    all_orf_dict = {0:0,1:1,2:2,3:0,4:1,5:2}
+    translator_list = []
 
     if specify_orf is not None:
-        for i in range(all_orf_dict[orf],len(my_sequence)-speed,speed):
-            curr_AA = codontab[my_sequence[i:i+3]]
-            if not started:
-                if curr_AA == "M":
-                    my_prot_seq = my_prot_seq + curr_AA
-                    started = True
-                    speed = 3
-            else:
-                if no_stop:
-                    my_prot_seq = my_prot_seq + curr_AA
-                else:
-                    if curr_AA != '*':
-                        my_prot_seq = my_prot_seq + curr_AA
-                        #print(f"added amino acid {curr_AA}")
-                    else:
-                        break
-        if confirm_seq != "":
-            seq_check = re.search(confirm_seq,my_prot_seq)
-            if seq_check is not None:
-                translator_list.append(my_prot_seq)
-            else:
-                translator_list.append(f"NO VALID SEQ (missing {confirm_seq})")
-        else:
-            translator_list.append(my_prot_seq)
-    else:
-        for orf in range(0,6):
-            if orf < 3:
-                #test the forward sequence
-                my_sequence = my_seq
-            else:
-                #test the reverse sequence
-                my_sequence = my_seq[::-1]
-            my_prot_seq = ""
+        return [translator(seq.upper(),specify_orf,started,stop)], [specify_orf]
+    else:   
+        for orf in range(0,3):
+            forward = translator(seq.upper(),orf,started,stop)
+            backward = translator(seq.upper()[::-1],orf,started,stop)
+            orf2 = orf * -1
 
-            for i in range(all_orf_dict[orf],len(my_sequence)-speed,speed):
-                curr_AA = codontab[my_sequence[i:i+3]]
-                if not started:
-                    if curr_AA == "M":
-                        my_prot_seq = my_prot_seq + curr_AA
-                        started = True
-                        speed = 3
-                else:
-                    if no_stop:
-                        my_prot_seq = my_prot_seq + curr_AA
-                    else:
-                        if curr_AA != '*':
-                            my_prot_seq = my_prot_seq + curr_AA
-                            #print(f"added amino acid {curr_AA}")
-                        else:
-                            break
-            #print(my_prot_seq)
             if confirm_seq != "":
-                seq_check = re.search(confirm_seq, my_prot_seq[50:])
-                #print(seq_check)
-                if seq_check is not None:
-                    #print(f"using orf {orf}")
-                    translator_list.append(my_prot_seq)
+                if re.search(confirm_seq, forward) is not None:
+                    translator_list.append(forward)
                     orf_list.append(orf)
+                if re.search(confirm_seq, backward) is not None:
+                    translator_list.append(backward)
+                    orf_list.append(orf*-1)
             else:
-                translator_list.append(my_prot_seq)
+                translator_list.append(forward)
+                translator_list.append(backward)
                 orf_list.append(orf)
-    
-    return translator_list, orf_list
+                orf_list.append(orf*-1)
 
+    return translator_list, orf_list
 
 #print(translator_dict)
 
 translated_seqs = {}
 
-with open(sys.argv[1],"r",encoding="utf-8") as f, open("translated_fasta_full.fa", "w", encoding="utf-8") as out:
+with open(sys.argv[1],
+          "r",
+          encoding="utf-8") as f, open("translated_fasta_full.fa",
+                                       "w",
+                                       encoding="utf-8") as out:
     for line in f.readlines():
         if not single_line:
             if line[0] == ">":
                 curr_id = line
                 #print(f"curr id = {curr_id}")
             else:
-                results,orfs = protein_translator(line.replace("\n",""),no_stop=True,confirm_seq="FADD")
+                results,orfs = protein_checker(line.replace("\n",""),
+                                               stop=True,
+                                               confirm_seq="FADD")
                 for idx, val in enumerate(results):
                     out.write(f"{curr_id.strip()}_orf{orfs[idx]}\n")
                     out.write(f"{val}\n")
         else:
             my_line = line.strip().split()
             curr_id = my_line[0]
-            results,orfs = protein_translator(my_line[1].replace("\n",""),no_stop=True,confirm_seq="FADD")
+            results,orfs = protein_checker(my_line[1].replace("\n",""),
+                                           stop=False,
+                                           confirm_seq="FADD")
             for idx, val in enumerate(results):
                 out.write(f"{curr_id.strip()}_orf{orfs[idx]}\n")
                 out.write(f"{val}\n")
-        
-
 f.close()
 out.close()
-
-
-
-

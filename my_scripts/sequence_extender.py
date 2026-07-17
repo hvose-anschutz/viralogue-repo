@@ -4,7 +4,6 @@
 and the coordinates. Used to find the EN domain, ORF1, and the 5'UTR of
 human L1HS sequences."""
 
-import re
 import requests
 
 #STEP 0: Define the globals:
@@ -22,7 +21,7 @@ HG_ACCESSION = {"chr1":"NC_000001.11","chr2":"NC_000002.12","chr3":"NC_000003.12
 
 EXTENDED_SEQS = {}
 
-#STEP 1: Parse the sequence document 
+#STEP 1: Parse the sequence document
 
 with open("../my_data/all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
     for idx, line in enumerate(f.readlines()):
@@ -37,9 +36,9 @@ with open("../my_data/all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
                 strand=2
                 startadd=208
                 endadd=3303
-        
-        URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-        PARAMS = {
+
+        url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+        params = {
             'db':'nuccore',
             'id': HG_ACCESSION[chr_num],
             'rettype':'fasta',
@@ -51,7 +50,7 @@ with open("../my_data/all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
             'complexity':3
         }
 
-        response = requests.get(URL,PARAMS,timeout=10)
+        response = requests.get(url,params,timeout=10)
 
         EXTENDED_SEQS[my_line[0]] = response.text.split("\n",1)[1].replace("\n","")
 
