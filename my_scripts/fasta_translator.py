@@ -4,8 +4,9 @@
 
 import re
 import sys
+import txt_to_fa
 
-single_line = False
+SINGLE_LINE = False
 
 codontab = {
     'TCA': 'S', 'TCC': 'S', 'TCG': 'S', 'TCT': 'S', 'AGC': 'S', 'AGT': 'S',   # Serine
@@ -35,7 +36,7 @@ codontab = {
 def translator(my_sequence:str,
              orf:int,
              started:bool,
-             stop:bool) -> str: 
+             stop:bool) -> str:
     """Translates a protein sequence.
     - my_sequence: nucleotide sequence to be translated.
     - orf: open reading frame to use.
@@ -75,24 +76,22 @@ def protein_checker(seq:str,
 
     if specify_orf is not None:
         return [translator(seq.upper(),specify_orf,started,stop)], [specify_orf]
-    else:   
-        for orf in range(0,3):
-            forward = translator(seq.upper(),orf,started,stop)
-            backward = translator(seq.upper()[::-1],orf,started,stop)
-            orf2 = orf * -1
-
-            if confirm_seq != "":
-                if re.search(confirm_seq, forward) is not None:
-                    translator_list.append(forward)
-                    orf_list.append(orf)
-                if re.search(confirm_seq, backward) is not None:
-                    translator_list.append(backward)
-                    orf_list.append(orf*-1)
-            else:
+    
+    for orf in range(0,3):
+        forward = translator(seq.upper(),orf,started,stop)
+        backward = translator(seq.upper()[::-1],orf,started,stop)
+        if confirm_seq != "":
+            if re.search(confirm_seq, forward) is not None:
                 translator_list.append(forward)
-                translator_list.append(backward)
                 orf_list.append(orf)
+            if re.search(confirm_seq, backward) is not None:
+                translator_list.append(backward)
                 orf_list.append(orf*-1)
+        else:
+            translator_list.append(forward)
+            translator_list.append(backward)
+            orf_list.append(orf)
+            orf_list.append(orf*-1)
 
     return translator_list, orf_list
 
@@ -106,7 +105,7 @@ with open(sys.argv[1],
                                        "w",
                                        encoding="utf-8") as out:
     for line in f.readlines():
-        if not single_line:
+        if not SINGLE_LINE:
             if line[0] == ">":
                 curr_id = line
                 #print(f"curr id = {curr_id}")

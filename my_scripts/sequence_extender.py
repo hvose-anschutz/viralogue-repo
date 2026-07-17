@@ -60,4 +60,3 @@ with open("all_L1HS_extended_seqs.fa","w",encoding="utf-8") as out:
     for keys,vals in EXTENDED_SEQS.items():
         out.write(f">{keys}\n{vals}\n")
 out.close()
-
