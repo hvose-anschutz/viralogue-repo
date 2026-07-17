@@ -24,15 +24,19 @@ EXTENDED_SEQS = {}
 
 #STEP 1: Parse the sequence document 
 
-with open("all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
+with open("../my_data/all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
     for idx, line in enumerate(f.readlines()):
         my_line = line.strip().split("\t")
         ref,chr_num,start,stop,strand = my_line[0].strip().split(".")
         match strand:
             case "+":
                 strand=1
+                startadd=3303
+                endadd=208
             case "-":
                 strand=2
+                startadd=208
+                endadd=3303
         
         URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
         PARAMS = {
@@ -40,8 +44,8 @@ with open("all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
             'id': HG_ACCESSION[chr_num],
             'rettype':'fasta',
             'retmode':'text',
-            'seq_start':str(int(start)-3303),
-            'seq_stop':str(int(stop)+208),
+            'seq_start':str(int(start)-startadd),
+            'seq_stop':str(int(stop)+endadd),
             'strand':strand,
             'api_key':'4067db555f3f041968fa45e511846737ca08',
             'complexity':3
@@ -53,8 +57,8 @@ with open("all_L1HS_RT_coords.txt","r",encoding="utf-8") as f:
 
 f.close()
 
-with open("all_L1HS_RT_extended_seqs.txt","w",encoding="utf-8") as out:
+with open("all_L1HS_extended_seqs.fa","w",encoding="utf-8") as out:
     for keys,vals in EXTENDED_SEQS.items():
-        out.write(f"{keys}\t{vals}\n")
+        out.write(f">{keys}\n{vals}\n")
 out.close()
 
